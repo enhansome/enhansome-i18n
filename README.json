@@ -38,7 +38,7 @@
             "last_commit": "2025-09-29T18:47:13Z",
             "owner": "globalizejs",
             "repo": "globalize",
-            "stars": 4843
+            "stars": 4839
           }
         },
         {
@@ -282,7 +282,7 @@
             "last_commit": "2026-08-13T02:09:08Z",
             "owner": "generaltranslation",
             "repo": "gt",
-            "stars": 1039
+            "stars": 1042
           }
         },
         {
@@ -600,10 +600,10 @@
           "repo_info": {
             "archived": false,
             "language": "C++",
-            "last_commit": "2026-08-01T22:58:33Z",
+            "last_commit": "2026-08-13T10:38:43Z",
             "owner": "google",
             "repo": "libphonenumber",
-            "stars": 18198
+            "stars": 18200
           }
         },
         {
@@ -637,7 +637,7 @@
             "last_commit": "2026-02-23T13:09:32Z",
             "owner": "CopyTranslator",
             "repo": "CopyTranslator",
-            "stars": 18033
+            "stars": 18034
           }
         },
         {
@@ -651,7 +651,7 @@
             "last_commit": "2026-08-10T18:51:28Z",
             "owner": "LibreTranslate",
             "repo": "LibreTranslate",
-            "stars": 15995
+            "stars": 16000
           }
         },
         {
@@ -665,7 +665,7 @@
             "last_commit": "2026-08-08T13:36:54Z",
             "owner": "niedev",
             "repo": "RTranslator",
-            "stars": 10323
+            "stars": 10321
           }
         },
         {
@@ -679,7 +679,7 @@
             "last_commit": "2026-08-08T12:09:57Z",
             "owner": "argosopentech",
             "repo": "argos-translate",
-            "stars": 6365
+            "stars": 6366
           }
         },
         {
@@ -693,7 +693,7 @@
             "last_commit": "2024-12-13T10:59:15Z",
             "owner": "lokalise",
             "repo": "i18n-ally",
-            "stars": 4891
+            "stars": 4893
           }
         },
         {
@@ -871,7 +871,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-13T04:10:29.700Z",
+    "last_updated": "2026-08-13T15:14:49.912Z",
     "original_repository": "oh-jon-paul/awesome-i18n",
     "original_repository_sha": "64d9205e3e439143ac1427114a5a9ba979ea3c63",
     "enhanced_repository": "enhansome/enhansome-i18n",
