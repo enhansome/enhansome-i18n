@@ -1,0 +1,881 @@
+{
+  "items": [
+    {
+      "description": "",
+      "items": [],
+      "title": "Remember to give this repo a star! 🌟"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "📦 Libraries"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "js-lingui",
+          "description": "readable, automated, and optimized internationalization",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-03T11:03:47Z",
+            "owner": "lingui",
+            "repo": "js-lingui",
+            "stars": 5844
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "jquery/globalize",
+          "description": "library for i18n that leverages the official Unicode CLDR JSON data",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2025-09-29T18:47:13Z",
+            "owner": "globalizejs",
+            "repo": "globalize",
+            "stars": 4843
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "(archived) facebook/fbt",
+          "description": "i18n framework for JS/TS designed to be powerful, flexible, simple and intuitive",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "JavaScript",
+            "last_commit": "2024-11-14T00:04:17Z",
+            "owner": "facebook",
+            "repo": "fbt",
+            "stars": 3880
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "typesafe-i18n",
+          "description": "type-safe, lightweight localization library for TypeScript with no external dependencies",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-03-22T20:28:52Z",
+            "owner": "codingcommons",
+            "repo": "typesafe-i18n",
+            "stars": 2474
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "messageformat",
+          "description": "ICU MessageFormat for JavaScript, plural and gender capable messages",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-06-29T16:29:33Z",
+            "owner": "messageformat",
+            "repo": "messageformat",
+            "stars": 1767
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "(archived) Intl.js",
+          "description": "implementation of the ECMAScript Internationalization API",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "JavaScript",
+            "last_commit": "2020-05-11T07:46:29Z",
+            "owner": "andyearnshaw",
+            "repo": "Intl.js",
+            "stars": 1693
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Jed",
+          "description": "gettext style i18n library",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2017-09-13T10:25:37Z",
+            "owner": "messageformat",
+            "repo": "Jed",
+            "stars": 870
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "rosetta",
+          "description": "A general purpose internationalization library in ~300 bytes (including dependencies)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2024-01-20T17:17:37Z",
+            "owner": "lukeed",
+            "repo": "rosetta",
+            "stars": 797
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "eo-locale",
+          "description": "elegant lightweight library based on internationalization API",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2024-12-10T20:29:42Z",
+            "owner": "ibitcy",
+            "repo": "eo-locale",
+            "stars": 347
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "schummar-translate",
+          "description": "TypeScript powered translation library for React and Node.js",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-08T06:21:17Z",
+            "owner": "schummar",
+            "repo": "schummar-translate",
+            "stars": 136
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "intljulep",
+          "description": "super lightweight yet powerful i18n library",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2024-05-30T08:07:22Z",
+            "owner": "laurentpayot",
+            "repo": "intljulep",
+            "stars": 16
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "date-formatter-i18n",
+          "description": "lightweight library for formatting dates with i18n support, relative time",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2025-01-12T14:46:14Z",
+            "owner": "asmaelabid",
+            "repo": "date-formatter-i18n",
+            "stars": 4
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "zero-intl",
+          "description": "dead simple library for modern apps",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-04-14T17:11:45Z",
+            "owner": "zero-intl",
+            "repo": "zero-intl",
+            "stars": 2
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "locale-lint",
+          "description": "detect missing keys, unused translations, hardcoded strings, interpolation mismatches",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-07-31T15:23:09Z",
+            "owner": "francisojeah",
+            "repo": "locale-lint",
+            "stars": 0
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "locakit",
+          "description": "i18n engine for key diffing, lockfile staleness tracking, placeholder, glossary checks",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-07-04T22:25:05Z",
+            "owner": "berkayyalcin7",
+            "repo": "locakit",
+            "stars": 0
+          }
+        }
+      ],
+      "title": "JavaScript / TypeScript"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "next-intl",
+          "description": "minimal solution for internationalization in Next.js",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-12T14:50:36Z",
+            "owner": "amannn",
+            "repo": "next-intl",
+            "stars": 4339
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "next-translate",
+          "description": "easy i18n for NextJS, ~1kb of size",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-06-29T16:54:36Z",
+            "owner": "aralroca",
+            "repo": "next-translate",
+            "stars": 2737
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "react-native-localize",
+          "description": "toolbox for your React Native app localization",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-12T09:17:12Z",
+            "owner": "zoontek",
+            "repo": "react-native-localize",
+            "stars": 2443
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "general translation",
+          "description": "component translation for Next.js with SSR/SSG",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-13T02:09:08Z",
+            "owner": "generaltranslation",
+            "repo": "gt",
+            "stars": 1039
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "react-localization",
+          "description": "translate using the same syntax as used in ReactNativeLocalization",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-02-21T17:31:10Z",
+            "owner": "stefalda",
+            "repo": "react-localization",
+            "stars": 371
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "react-localize-redux",
+          "description": "localization library for handling translations",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2022-12-30T16:29:47Z",
+            "owner": "ryandrewjohnson",
+            "repo": "react-localize-redux",
+            "stars": 370
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "react-translate-component",
+          "description": "component that utilizes the Counterpart/Interpolate components",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2018-02-28T07:47:41Z",
+            "owner": "martinandert",
+            "repo": "react-translate-component",
+            "stars": 319
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "talkr",
+          "description": "light i18n provider for React (< 1kb), Typescript, smart autocompletion, plural rules",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2024-09-29T09:14:35Z",
+            "owner": "DoneDeal0",
+            "repo": "Talkr",
+            "stars": 251
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "react-translated",
+          "description": "dead simple way to add complex translations",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2022-12-07T18:16:23Z",
+            "owner": "amsul",
+            "repo": "react-translated",
+            "stars": 177
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "react-i18nify",
+          "description": "simple i18n translation and localization components and helpers for React",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-07-26T22:44:43Z",
+            "owner": "sealninja",
+            "repo": "react-i18nify",
+            "stars": 154
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "react-translate",
+          "description": "internationalization for React",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2022-12-08T18:25:26Z",
+            "owner": "bloodyowl",
+            "repo": "react-translate",
+            "stars": 109
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "react-persian",
+          "description": "set of react components for Persian localization",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2017-12-08T01:45:05Z",
+            "owner": "evandhq",
+            "repo": "react-persian",
+            "stars": 82
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "react-littera",
+          "description": "lightweight library for i18n using hooks",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2024-01-19T02:09:51Z",
+            "owner": "Assembless",
+            "repo": "react-littera",
+            "stars": 19
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "react-i18n-mini",
+          "description": "tiny (~2.39 kB) internationalisation library for React",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2024-01-09T10:38:29Z",
+            "owner": "SanichKotikov",
+            "repo": "react-i18n-mini",
+            "stars": 16
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "react-intl-hooks",
+          "description": "small and fast library that you can use to replace FormatJS components",
+          "children": []
+        }
+      ],
+      "title": "React framework"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "(Angular) ngx-translate",
+          "description": "i18n for Angular",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-07-20T05:55:18Z",
+            "owner": "ngx-translate",
+            "repo": "core",
+            "stars": 4660
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "(VueJS) vue-i18n",
+          "description": "i18n for VueJS",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-12T09:39:51Z",
+            "owner": "intlify",
+            "repo": "vue-i18n",
+            "stars": 2704
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "(Angular) transloco",
+          "description": "i18n for Angular",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-09T18:24:16Z",
+            "owner": "jsverse",
+            "repo": "transloco",
+            "stars": 2272
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "(Svelte) svelte-i18n",
+          "description": "i18n for Svelte",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2024-10-21T08:20:04Z",
+            "owner": "kaisermann",
+            "repo": "svelte-i18n",
+            "stars": 1376
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "(Angular) ng-extract-i18n-merge",
+          "description": "manage translation files for native Angular CLI i18n",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-06-06T19:31:59Z",
+            "owner": "daniel-sc",
+            "repo": "ng-extract-i18n-merge",
+            "stars": 222
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "(VueJS) sweet-i18n",
+          "description": "automatic extraction and conversion of Chinese characters in Vue/JS files",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2023-05-08T16:04:15Z",
+            "owner": "wood3n",
+            "repo": "i18n-parser",
+            "stars": 29
+          }
+        }
+      ],
+      "title": "Other JS/TS frameworks"
+    },
+    {
+      "description": "Add your links here",
+      "items": [],
+      "title": "PHP"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "deep-translator",
+          "description": "library to translate between different languages in a simple way using multiple translators",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-07-23T22:12:59Z",
+            "owner": "nidhaloff",
+            "repo": "deep-translator",
+            "stars": 2036
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "LangLint",
+          "description": "high-performance Rust-powered automated translation tool for code comments and docstrings",
+          "children": []
+        }
+      ],
+      "title": "Python"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "jekyll-multiple-languages-plugin",
+          "description": "Jekyll Multiple Languages is an internationalization plugin",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Ruby",
+            "last_commit": "2023-11-01T08:25:53Z",
+            "owner": "kurtsson",
+            "repo": "jekyll-multiple-languages-plugin",
+            "stars": 936
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "(archived) jekyll-i18n",
+          "description": "Jekyll i18n is a plugin that enables simplistic multi-language site designs",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Ruby",
+            "last_commit": "2019-04-09T07:17:39Z",
+            "owner": "liamzebedee",
+            "repo": "jekyll-i18n",
+            "stars": 39
+          }
+        }
+      ],
+      "title": "Jekyll"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "(JS) googlei18n/libphonenumber",
+          "description": "parsing, formatting, and validating phone numbers (Java, C++, JavaScript)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-08-01T22:58:33Z",
+            "owner": "google",
+            "repo": "libphonenumber",
+            "stars": 18198
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "(JS) anywhen",
+          "description": "relative and absolute fuzzy date formatting for any language, zero deps, native Intl",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "TypeScript",
+            "last_commit": "2026-08-07T17:53:36Z",
+            "owner": "kirilinsky",
+            "repo": "anywhen",
+            "stars": 0
+          }
+        }
+      ],
+      "title": "📅 Utilities"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Copy Translator",
+          "description": "cross-platform app that automatically translate texts when copied",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-02-23T13:09:32Z",
+            "owner": "CopyTranslator",
+            "repo": "CopyTranslator",
+            "stars": 18033
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "LibreTranslate",
+          "description": "self-hosted web application to translate texts",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-10T18:51:28Z",
+            "owner": "LibreTranslate",
+            "repo": "LibreTranslate",
+            "stars": 15995
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "RTranslator",
+          "description": "simultaneous translator app for Android based on Google's API",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-08-08T13:36:54Z",
+            "owner": "niedev",
+            "repo": "RTranslator",
+            "stars": 10323
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Argos Translate",
+          "description": "open source offline translation app based on OpenNMT",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-08T12:09:57Z",
+            "owner": "argosopentech",
+            "repo": "argos-translate",
+            "stars": 6365
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "i18n-ally",
+          "description": "VS Code extension for i18n",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2024-12-13T10:59:15Z",
+            "owner": "lokalise",
+            "repo": "i18n-ally",
+            "stars": 4891
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Crow Translate",
+          "description": "lightweight desktop translator",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "C++",
+            "last_commit": "2024-07-04T15:06:19Z",
+            "owner": "crow-translate",
+            "repo": "crow-translate",
+            "stars": 1980
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "IntelliJ plugin for extracting i18n keys",
+          "description": "IntelliJ IDEA plugin for extracing i18n keys",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Kotlin",
+            "last_commit": "2023-04-07T12:03:19Z",
+            "owner": "nyavro",
+            "repo": "i18nPlugin",
+            "stars": 77
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "LRM",
+          "description": "cross-platform CLI for managing JSON (i18next compatible) and .resx localization files",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "CSS",
+            "last_commit": "2026-07-10T08:20:43Z",
+            "owner": "nickprotop",
+            "repo": "LocalizationManager",
+            "stars": 50
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ai-i18n",
+          "description": "GitHub Action that translates i18n files (XLIFF, JSON) using LLM providers",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-07-01T15:39:19Z",
+            "owner": "i18n-actions",
+            "repo": "ai-i18n",
+            "stars": 19
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "NRG",
+          "description": "template engine that generates multi-language markdowns",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2026-05-18T10:01:41Z",
+            "owner": "nanolaba",
+            "repo": "readme-generator",
+            "stars": 9
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Dire",
+          "description": "cli that processes missing translations in JSON files using AI",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2025-11-26T11:54:01Z",
+            "owner": "juliandreas",
+            "repo": "dire-cli",
+            "stars": 3
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "i18n Checker",
+          "description": "GitHub Action that detects hardcoded user-facing strings in JS/TS",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-05-27T09:43:24Z",
+            "owner": "theluckystrike",
+            "repo": "bln-i18n-checker",
+            "stars": 0
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "i18n-inline-editor",
+          "description": "inline translation editor for Vite",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-06-24T17:27:56Z",
+            "owner": "thezuck",
+            "repo": "i18n-inline-editor-vite-demo",
+            "stars": 0
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "i18n-convert",
+          "description": "cli that losslessly converts between i18n file formats",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-05-20T11:13:26Z",
+            "owner": "i18n-agent",
+            "repo": "i18n-convert",
+            "stars": 0
+          }
+        }
+      ],
+      "title": "Apps and extensions for translation management"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "GitHub: FormatJS example project",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2024-12-02T09:20:35Z",
+            "owner": "simplelocalize",
+            "repo": "simplelocalize-react-intl",
+            "stars": 7
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "GitHub: i18next example project",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-06-12T09:04:51Z",
+            "owner": "simplelocalize",
+            "repo": "simplelocalize-i18next",
+            "stars": 5
+          }
+        }
+      ],
+      "title": "📚 Resources"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "💭 Community tips & tricks"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "👩‍🎓 Acronyms and keywords"
+    }
+  ],
+  "metadata": {
+    "last_updated": "2026-08-13T04:10:29.700Z",
+    "original_repository": "oh-jon-paul/awesome-i18n",
+    "original_repository_sha": "64d9205e3e439143ac1427114a5a9ba979ea3c63",
+    "enhanced_repository": "enhansome/enhansome-i18n",
+    "enhanced_repository_description": null,
+    "title": "awesome-i18n with stars"
+  }
+}
