@@ -279,10 +279,10 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-08-13T23:55:40Z",
+            "last_commit": "2026-08-15T01:29:53Z",
             "owner": "generaltranslation",
             "repo": "gt",
-            "stars": 1043
+            "stars": 1045
           }
         },
         {
@@ -363,7 +363,7 @@
           "repo_info": {
             "archived": false,
             "language": "JavaScript",
-            "last_commit": "2026-07-26T22:44:43Z",
+            "last_commit": "2026-08-15T10:31:02Z",
             "owner": "sealninja",
             "repo": "react-i18nify",
             "stars": 154
@@ -459,7 +459,7 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-08-12T09:39:51Z",
+            "last_commit": "2026-08-15T06:51:27Z",
             "owner": "intlify",
             "repo": "vue-i18n",
             "stars": 2704
@@ -473,7 +473,7 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-08-09T18:24:16Z",
+            "last_commit": "2026-08-15T11:47:21Z",
             "owner": "jsverse",
             "repo": "transloco",
             "stars": 2272
@@ -603,7 +603,7 @@
             "last_commit": "2026-08-13T10:38:43Z",
             "owner": "google",
             "repo": "libphonenumber",
-            "stars": 18202
+            "stars": 18206
           }
         },
         {
@@ -651,7 +651,7 @@
             "last_commit": "2026-08-10T18:51:28Z",
             "owner": "LibreTranslate",
             "repo": "LibreTranslate",
-            "stars": 16005
+            "stars": 16010
           }
         },
         {
@@ -665,7 +665,7 @@
             "last_commit": "2026-08-08T13:36:54Z",
             "owner": "niedev",
             "repo": "RTranslator",
-            "stars": 10325
+            "stars": 10327
           }
         },
         {
@@ -679,7 +679,7 @@
             "last_commit": "2026-08-08T12:09:57Z",
             "owner": "argosopentech",
             "repo": "argos-translate",
-            "stars": 6369
+            "stars": 6372
           }
         },
         {
@@ -871,7 +871,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-14T15:07:19.883Z",
+    "last_updated": "2026-08-15T14:39:10.217Z",
     "original_repository": "oh-jon-paul/awesome-i18n",
     "original_repository_sha": "64d9205e3e439143ac1427114a5a9ba979ea3c63",
     "enhanced_repository": "enhansome/enhansome-i18n",
