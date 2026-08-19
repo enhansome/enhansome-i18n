@@ -488,7 +488,7 @@
                     "archived": false,
                     "id": 201458091,
                     "language": "TypeScript",
-                    "last_commit": "2026-08-15T18:37:37Z",
+                    "last_commit": "2026-08-19T13:20:27Z",
                     "owner": "jsverse",
                     "repo": "transloco",
                     "stars": 2272
@@ -901,7 +901,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-19T12:33:53.729Z",
+    "last_updated": "2026-08-19T14:53:22.375Z",
     "original_repository": "oh-jon-paul/awesome-i18n",
     "original_repository_id": 338562865,
     "original_repository_sha": "64d9205e3e439143ac1427114a5a9ba979ea3c63",

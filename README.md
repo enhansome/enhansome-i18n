@@ -78,7 +78,7 @@
 
 * (Angular) [ngx-translate](https://github.com/ngx-translate/core) ⭐ 4,659 | 🐛 98 | 🌐 TypeScript | 📅 2026-07-20 - i18n for Angular
 * (VueJS) [vue-i18n](https://github.com/intlify/vue-i18n) ⭐ 2,705 | 🐛 92 | 🌐 TypeScript | 📅 2026-08-17 - i18n for VueJS
-* (Angular) [transloco](https://github.com/jsverse/transloco) ⭐ 2,272 | 🐛 152 | 🌐 TypeScript | 📅 2026-08-15 - i18n for Angular
+* (Angular) [transloco](https://github.com/jsverse/transloco) ⭐ 2,272 | 🐛 152 | 🌐 TypeScript | 📅 2026-08-19 - i18n for Angular
 * (Svelte) [svelte-i18n](https://github.com/kaisermann/svelte-i18n) ⭐ 1,376 | 🐛 74 | 🌐 TypeScript | 📅 2024-10-21 - i18n for Svelte
 * (Angular) [ng-extract-i18n-merge](https://github.com/daniel-sc/ng-extract-i18n-merge) ⭐ 222 | 🐛 14 | 🌐 TypeScript | 📅 2026-06-06 - manage translation files for native Angular CLI i18n
 * (VueJS) [sweet-i18n](https://github.com/wood3n/sweet-i18n) ⭐ 29 | 🐛 1 | 🌐 TypeScript | 📅 2023-05-08 - automatic extraction and conversion of Chinese characters in Vue/JS files
