@@ -246,10 +246,10 @@
                 "archived": false,
                 "id": 314533356,
                 "language": "TypeScript",
-                "last_commit": "2026-08-17T10:26:18Z",
+                "last_commit": "2026-08-19T15:58:16Z",
                 "owner": "amannn",
                 "repo": "next-intl",
-                "stars": 4348
+                "stars": 4349
               }
             },
             {
@@ -291,10 +291,10 @@
                 "archived": false,
                 "id": 891166919,
                 "language": "TypeScript",
-                "last_commit": "2026-08-18T20:22:49Z",
+                "last_commit": "2026-08-20T04:31:49Z",
                 "owner": "generaltranslation",
                 "repo": "gt",
-                "stars": 1047
+                "stars": 1048
               }
             },
             {
@@ -476,7 +476,7 @@
                     "last_commit": "2026-08-17T14:30:54Z",
                     "owner": "intlify",
                     "repo": "vue-i18n",
-                    "stars": 2705
+                    "stars": 2706
                   }
                 },
                 {
@@ -488,10 +488,10 @@
                     "archived": false,
                     "id": 201458091,
                     "language": "TypeScript",
-                    "last_commit": "2026-08-19T13:20:27Z",
+                    "last_commit": "2026-08-20T09:10:15Z",
                     "owner": "jsverse",
                     "repo": "transloco",
-                    "stars": 2272
+                    "stars": 2274
                   }
                 },
                 {
@@ -506,7 +506,7 @@
                     "last_commit": "2024-10-21T08:20:04Z",
                     "owner": "kaisermann",
                     "repo": "svelte-i18n",
-                    "stars": 1376
+                    "stars": 1377
                   }
                 },
                 {
@@ -626,7 +626,7 @@
             "last_commit": "2026-08-13T10:38:43Z",
             "owner": "google",
             "repo": "libphonenumber",
-            "stars": 18219
+            "stars": 18222
           }
         },
         {
@@ -662,7 +662,7 @@
             "last_commit": "2026-02-23T13:09:32Z",
             "owner": "CopyTranslator",
             "repo": "CopyTranslator",
-            "stars": 18039
+            "stars": 18042
           }
         },
         {
@@ -677,7 +677,7 @@
             "last_commit": "2026-08-10T18:51:28Z",
             "owner": "LibreTranslate",
             "repo": "LibreTranslate",
-            "stars": 16033
+            "stars": 16058
           }
         },
         {
@@ -707,7 +707,7 @@
             "last_commit": "2026-08-08T12:09:57Z",
             "owner": "argosopentech",
             "repo": "argos-translate",
-            "stars": 6380
+            "stars": 6382
           }
         },
         {
@@ -779,7 +779,7 @@
             "archived": false,
             "id": 1142985958,
             "language": "TypeScript",
-            "last_commit": "2026-08-19T01:48:30Z",
+            "last_commit": "2026-08-19T16:14:38Z",
             "owner": "i18n-actions",
             "repo": "ai-i18n",
             "stars": 19
@@ -901,7 +901,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-19T14:53:22.375Z",
+    "last_updated": "2026-08-20T14:54:44.233Z",
     "original_repository": "oh-jon-paul/awesome-i18n",
     "original_repository_id": 338562865,
     "original_repository_sha": "64d9205e3e439143ac1427114a5a9ba979ea3c63",
