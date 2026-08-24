@@ -777,7 +777,7 @@
             "archived": false,
             "id": 251396732,
             "language": "C++",
-            "last_commit": "2026-08-21T16:36:10Z",
+            "last_commit": "2026-08-24T14:32:12Z",
             "owner": "niedev",
             "repo": "RTranslator",
             "stars": 10348
@@ -989,7 +989,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T14:30:43.993Z",
+    "last_updated": "2026-08-24T15:00:23.376Z",
     "original_repository": "oh-jon-paul/awesome-i18n",
     "original_repository_id": 338562865,
     "original_repository_sha": "64d9205e3e439143ac1427114a5a9ba979ea3c63",

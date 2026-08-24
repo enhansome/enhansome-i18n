@@ -130,7 +130,7 @@
 
 * [Copy Translator](https://github.com/CopyTranslator/CopyTranslator) ⭐ 18,048 | 🐛 129 | 🌐 TypeScript | 📅 2026-02-23 - cross-platform app that automatically translate texts when copied
 * [LibreTranslate](https://github.com/uav4geo/LibreTranslate) ⭐ 16,118 | 🐛 124 | 🌐 Python | 📅 2026-08-23 - self-hosted web application to translate texts
-* [RTranslator](https://github.com/niedev/RTranslator) ⭐ 10,348 | 🐛 26 | 🌐 C++ | 📅 2026-08-21 - simultaneous translator app for Android based on Google's API
+* [RTranslator](https://github.com/niedev/RTranslator) ⭐ 10,348 | 🐛 26 | 🌐 C++ | 📅 2026-08-24 - simultaneous translator app for Android based on Google's API
 * [Argos Translate](https://github.com/argosopentech/argos-translate) ⭐ 6,393 | 🐛 159 | 🌐 Python | 📅 2026-08-08 - open source offline translation app based on OpenNMT
 * [i18n-ally](https://github.com/antfu/i18n-ally) ⭐ 4,895 | 🐛 475 | 🌐 TypeScript | 📅 2024-12-13 - VS Code extension for i18n
 * [Crow Translate](https://github.com/crow-translate/crow-translate) ⚠️ Archived - lightweight desktop translator
