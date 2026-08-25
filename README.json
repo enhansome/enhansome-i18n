@@ -17,7 +17,7 @@
                 "last_commit": "2026-08-14T09:54:25Z",
                 "owner": "lingui",
                 "repo": "js-lingui",
-                "stars": 5855
+                "stars": 5856
               }
             },
             {
@@ -473,7 +473,7 @@
                     "archived": false,
                     "id": 231953283,
                     "language": "TypeScript",
-                    "last_commit": "2026-08-24T19:43:30Z",
+                    "last_commit": "2026-08-25T14:40:14Z",
                     "owner": "intlify",
                     "repo": "vue-i18n",
                     "stars": 2712
@@ -714,7 +714,7 @@
             "last_commit": "2026-08-13T10:38:43Z",
             "owner": "google",
             "repo": "libphonenumber",
-            "stars": 18226
+            "stars": 18228
           }
         },
         {
@@ -750,7 +750,7 @@
             "last_commit": "2026-02-23T13:09:32Z",
             "owner": "CopyTranslator",
             "repo": "CopyTranslator",
-            "stars": 18051
+            "stars": 18052
           }
         },
         {
@@ -765,7 +765,7 @@
             "last_commit": "2026-08-23T22:47:34Z",
             "owner": "LibreTranslate",
             "repo": "LibreTranslate",
-            "stars": 16122
+            "stars": 16125
           }
         },
         {
@@ -780,7 +780,7 @@
             "last_commit": "2026-08-24T20:56:45Z",
             "owner": "niedev",
             "repo": "RTranslator",
-            "stars": 10348
+            "stars": 10350
           }
         },
         {
@@ -795,7 +795,7 @@
             "last_commit": "2026-08-08T12:09:57Z",
             "owner": "argosopentech",
             "repo": "argos-translate",
-            "stars": 6395
+            "stars": 6396
           }
         },
         {
@@ -989,7 +989,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T06:19:19.455Z",
+    "last_updated": "2026-08-25T15:05:21.398Z",
     "original_repository": "oh-jon-paul/awesome-i18n",
     "original_repository_id": 338562865,
     "original_repository_sha": "64d9205e3e439143ac1427114a5a9ba979ea3c63",
