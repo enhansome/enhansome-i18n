@@ -17,7 +17,7 @@
                 "last_commit": "2026-08-14T09:54:25Z",
                 "owner": "lingui",
                 "repo": "js-lingui",
-                "stars": 5856
+                "stars": 5858
               }
             },
             {
@@ -77,7 +77,7 @@
                 "last_commit": "2026-06-29T16:29:33Z",
                 "owner": "messageformat",
                 "repo": "messageformat",
-                "stars": 1766
+                "stars": 1767
               }
             },
             {
@@ -107,7 +107,7 @@
                 "last_commit": "2017-09-13T10:25:37Z",
                 "owner": "messageformat",
                 "repo": "Jed",
-                "stars": 870
+                "stars": 871
               }
             },
             {
@@ -246,10 +246,10 @@
                 "archived": false,
                 "id": 314533356,
                 "language": "TypeScript",
-                "last_commit": "2026-08-21T13:48:35Z",
+                "last_commit": "2026-08-26T15:01:41Z",
                 "owner": "amannn",
                 "repo": "next-intl",
-                "stars": 4353
+                "stars": 4354
               }
             },
             {
@@ -291,10 +291,10 @@
                 "archived": false,
                 "id": 891166919,
                 "language": "TypeScript",
-                "last_commit": "2026-08-25T04:53:09Z",
+                "last_commit": "2026-08-26T04:41:20Z",
                 "owner": "generaltranslation",
                 "repo": "gt",
-                "stars": 1051
+                "stars": 1052
               }
             },
             {
@@ -473,7 +473,7 @@
                     "archived": false,
                     "id": 231953283,
                     "language": "TypeScript",
-                    "last_commit": "2026-08-25T14:40:14Z",
+                    "last_commit": "2026-08-26T12:22:18Z",
                     "owner": "intlify",
                     "repo": "vue-i18n",
                     "stars": 2712
@@ -491,7 +491,7 @@
                     "last_commit": "2026-08-22T21:15:22Z",
                     "owner": "jsverse",
                     "repo": "transloco",
-                    "stars": 2276
+                    "stars": 2278
                   }
                 },
                 {
@@ -563,7 +563,7 @@
                 "last_commit": "2026-07-24T14:37:46Z",
                 "owner": "oh-jon-paul",
                 "repo": "awesome-i18n",
-                "stars": 408
+                "stars": 409
               }
             }
           ],
@@ -585,7 +585,7 @@
                 "last_commit": "2026-07-24T14:37:46Z",
                 "owner": "oh-jon-paul",
                 "repo": "awesome-i18n",
-                "stars": 408
+                "stars": 409
               }
             }
           ],
@@ -651,7 +651,7 @@
                 "last_commit": "2024-07-23T22:12:59Z",
                 "owner": "nidhaloff",
                 "repo": "deep-translator",
-                "stars": 2038
+                "stars": 2039
               }
             }
           ],
@@ -711,10 +711,10 @@
             "archived": false,
             "id": 27500243,
             "language": "C++",
-            "last_commit": "2026-08-13T10:38:43Z",
+            "last_commit": "2026-08-26T12:21:11Z",
             "owner": "google",
             "repo": "libphonenumber",
-            "stars": 18228
+            "stars": 18232
           }
         },
         {
@@ -750,7 +750,7 @@
             "last_commit": "2026-02-23T13:09:32Z",
             "owner": "CopyTranslator",
             "repo": "CopyTranslator",
-            "stars": 18052
+            "stars": 18053
           }
         },
         {
@@ -765,7 +765,7 @@
             "last_commit": "2026-08-23T22:47:34Z",
             "owner": "LibreTranslate",
             "repo": "LibreTranslate",
-            "stars": 16125
+            "stars": 16134
           }
         },
         {
@@ -777,10 +777,10 @@
             "archived": false,
             "id": 251396732,
             "language": "C++",
-            "last_commit": "2026-08-24T20:56:45Z",
+            "last_commit": "2026-08-26T14:43:22Z",
             "owner": "niedev",
             "repo": "RTranslator",
-            "stars": 10350
+            "stars": 10354
           }
         },
         {
@@ -795,7 +795,7 @@
             "last_commit": "2026-08-08T12:09:57Z",
             "owner": "argosopentech",
             "repo": "argos-translate",
-            "stars": 6396
+            "stars": 6401
           }
         },
         {
@@ -989,7 +989,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T15:05:21.398Z",
+    "last_updated": "2026-08-26T15:54:15.472Z",
     "original_repository": "oh-jon-paul/awesome-i18n",
     "original_repository_id": 338562865,
     "original_repository_sha": "64d9205e3e439143ac1427114a5a9ba979ea3c63",
