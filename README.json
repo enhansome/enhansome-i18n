@@ -17,8 +17,9 @@
                 "last_commit": "2026-08-14T09:54:25Z",
                 "owner": "lingui",
                 "repo": "js-lingui",
-                "stars": 5858
-              }
+                "stars": 5862
+              },
+              "first_seen": "2026-08-28T23:33:14.090Z"
             },
             {
               "node_type": "item",
@@ -33,7 +34,8 @@
                 "owner": "globalizejs",
                 "repo": "globalize",
                 "stars": 4835
-              }
+              },
+              "first_seen": "2026-08-28T23:33:14.090Z"
             },
             {
               "node_type": "item",
@@ -48,7 +50,8 @@
                 "owner": "facebook",
                 "repo": "fbt",
                 "stars": 3882
-              }
+              },
+              "first_seen": "2026-08-28T23:33:14.090Z"
             },
             {
               "node_type": "item",
@@ -63,7 +66,8 @@
                 "owner": "codingcommons",
                 "repo": "typesafe-i18n",
                 "stars": 2475
-              }
+              },
+              "first_seen": "2026-08-28T23:33:14.090Z"
             },
             {
               "node_type": "item",
@@ -78,7 +82,8 @@
                 "owner": "messageformat",
                 "repo": "messageformat",
                 "stars": 1767
-              }
+              },
+              "first_seen": "2026-08-28T23:33:14.090Z"
             },
             {
               "node_type": "item",
@@ -93,7 +98,8 @@
                 "owner": "andyearnshaw",
                 "repo": "Intl.js",
                 "stars": 1691
-              }
+              },
+              "first_seen": "2026-08-28T23:33:14.090Z"
             },
             {
               "node_type": "item",
@@ -108,7 +114,8 @@
                 "owner": "messageformat",
                 "repo": "Jed",
                 "stars": 871
-              }
+              },
+              "first_seen": "2026-08-28T23:33:14.090Z"
             },
             {
               "node_type": "item",
@@ -123,7 +130,8 @@
                 "owner": "lukeed",
                 "repo": "rosetta",
                 "stars": 797
-              }
+              },
+              "first_seen": "2026-08-28T23:33:14.090Z"
             },
             {
               "node_type": "item",
@@ -138,7 +146,8 @@
                 "owner": "ibitcy",
                 "repo": "eo-locale",
                 "stars": 347
-              }
+              },
+              "first_seen": "2026-08-28T23:33:14.090Z"
             },
             {
               "node_type": "item",
@@ -153,7 +162,8 @@
                 "owner": "schummar",
                 "repo": "schummar-translate",
                 "stars": 136
-              }
+              },
+              "first_seen": "2026-08-28T23:33:14.090Z"
             },
             {
               "node_type": "item",
@@ -168,7 +178,8 @@
                 "owner": "laurentpayot",
                 "repo": "intljulep",
                 "stars": 16
-              }
+              },
+              "first_seen": "2026-08-28T23:33:14.090Z"
             },
             {
               "node_type": "item",
@@ -183,7 +194,8 @@
                 "owner": "asmaelabid",
                 "repo": "date-formatter-i18n",
                 "stars": 4
-              }
+              },
+              "first_seen": "2026-08-28T23:33:14.090Z"
             },
             {
               "node_type": "item",
@@ -198,7 +210,8 @@
                 "owner": "zero-intl",
                 "repo": "zero-intl",
                 "stars": 2
-              }
+              },
+              "first_seen": "2026-08-28T23:33:14.090Z"
             },
             {
               "node_type": "item",
@@ -213,7 +226,8 @@
                 "owner": "francisojeah",
                 "repo": "locale-lint",
                 "stars": 0
-              }
+              },
+              "first_seen": "2026-08-28T23:33:14.090Z"
             },
             {
               "node_type": "item",
@@ -228,7 +242,8 @@
                 "owner": "berkayyalcin7",
                 "repo": "locakit",
                 "stars": 0
-              }
+              },
+              "first_seen": "2026-08-28T23:33:14.090Z"
             }
           ],
           "description": null,
@@ -246,11 +261,12 @@
                 "archived": false,
                 "id": 314533356,
                 "language": "TypeScript",
-                "last_commit": "2026-08-27T14:44:37Z",
+                "last_commit": "2026-08-28T09:34:56Z",
                 "owner": "amannn",
                 "repo": "next-intl",
                 "stars": 4354
-              }
+              },
+              "first_seen": "2026-08-28T23:33:14.090Z"
             },
             {
               "node_type": "item",
@@ -265,7 +281,8 @@
                 "owner": "aralroca",
                 "repo": "next-translate",
                 "stars": 2736
-              }
+              },
+              "first_seen": "2026-08-28T23:33:14.090Z"
             },
             {
               "node_type": "item",
@@ -280,7 +297,8 @@
                 "owner": "zoontek",
                 "repo": "react-native-localize",
                 "stars": 2443
-              }
+              },
+              "first_seen": "2026-08-28T23:33:14.090Z"
             },
             {
               "node_type": "item",
@@ -291,11 +309,12 @@
                 "archived": false,
                 "id": 891166919,
                 "language": "TypeScript",
-                "last_commit": "2026-08-27T23:40:26Z",
+                "last_commit": "2026-08-28T22:43:45Z",
                 "owner": "generaltranslation",
                 "repo": "gt",
                 "stars": 1052
-              }
+              },
+              "first_seen": "2026-08-28T23:33:14.090Z"
             },
             {
               "node_type": "item",
@@ -310,7 +329,8 @@
                 "owner": "stefalda",
                 "repo": "react-localization",
                 "stars": 371
-              }
+              },
+              "first_seen": "2026-08-28T23:33:14.090Z"
             },
             {
               "node_type": "item",
@@ -325,7 +345,8 @@
                 "owner": "ryandrewjohnson",
                 "repo": "react-localize-redux",
                 "stars": 370
-              }
+              },
+              "first_seen": "2026-08-28T23:33:14.090Z"
             },
             {
               "node_type": "item",
@@ -340,7 +361,8 @@
                 "owner": "martinandert",
                 "repo": "react-translate-component",
                 "stars": 319
-              }
+              },
+              "first_seen": "2026-08-28T23:33:14.090Z"
             },
             {
               "node_type": "item",
@@ -355,7 +377,8 @@
                 "owner": "DoneDeal0",
                 "repo": "Talkr",
                 "stars": 251
-              }
+              },
+              "first_seen": "2026-08-28T23:33:14.090Z"
             },
             {
               "node_type": "item",
@@ -370,7 +393,8 @@
                 "owner": "amsul",
                 "repo": "react-translated",
                 "stars": 177
-              }
+              },
+              "first_seen": "2026-08-28T23:33:14.090Z"
             },
             {
               "node_type": "item",
@@ -385,7 +409,8 @@
                 "owner": "sealninja",
                 "repo": "react-i18nify",
                 "stars": 154
-              }
+              },
+              "first_seen": "2026-08-28T23:33:14.090Z"
             },
             {
               "node_type": "item",
@@ -400,7 +425,8 @@
                 "owner": "bloodyowl",
                 "repo": "react-translate",
                 "stars": 109
-              }
+              },
+              "first_seen": "2026-08-28T23:33:14.090Z"
             },
             {
               "node_type": "item",
@@ -415,7 +441,8 @@
                 "owner": "evandhq",
                 "repo": "react-persian",
                 "stars": 82
-              }
+              },
+              "first_seen": "2026-08-28T23:33:14.090Z"
             },
             {
               "node_type": "item",
@@ -430,7 +457,8 @@
                 "owner": "Assembless",
                 "repo": "react-littera",
                 "stars": 19
-              }
+              },
+              "first_seen": "2026-08-28T23:33:14.090Z"
             },
             {
               "node_type": "item",
@@ -445,7 +473,8 @@
                 "owner": "SanichKotikov",
                 "repo": "react-i18n-mini",
                 "stars": 16
-              }
+              },
+              "first_seen": "2026-08-28T23:33:14.090Z"
             },
             {
               "children": [
@@ -462,7 +491,8 @@
                     "owner": "ngx-translate",
                     "repo": "core",
                     "stars": 4660
-                  }
+                  },
+                  "first_seen": "2026-08-28T23:33:14.090Z"
                 },
                 {
                   "node_type": "item",
@@ -473,11 +503,12 @@
                     "archived": false,
                     "id": 231953283,
                     "language": "TypeScript",
-                    "last_commit": "2026-08-27T08:39:43Z",
+                    "last_commit": "2026-08-28T17:14:50Z",
                     "owner": "intlify",
                     "repo": "vue-i18n",
                     "stars": 2713
-                  }
+                  },
+                  "first_seen": "2026-08-28T23:33:14.090Z"
                 },
                 {
                   "node_type": "item",
@@ -492,7 +523,8 @@
                     "owner": "jsverse",
                     "repo": "transloco",
                     "stars": 2279
-                  }
+                  },
+                  "first_seen": "2026-08-28T23:33:14.090Z"
                 },
                 {
                   "node_type": "item",
@@ -507,7 +539,8 @@
                     "owner": "kaisermann",
                     "repo": "svelte-i18n",
                     "stars": 1377
-                  }
+                  },
+                  "first_seen": "2026-08-28T23:33:14.090Z"
                 },
                 {
                   "node_type": "item",
@@ -522,7 +555,8 @@
                     "owner": "daniel-sc",
                     "repo": "ng-extract-i18n-merge",
                     "stars": 222
-                  }
+                  },
+                  "first_seen": "2026-08-28T23:33:14.090Z"
                 },
                 {
                   "node_type": "item",
@@ -537,7 +571,8 @@
                     "owner": "wood3n",
                     "repo": "i18n-parser",
                     "stars": 30
-                  }
+                  },
+                  "first_seen": "2026-08-28T23:33:14.090Z"
                 }
               ],
               "description": null,
@@ -564,7 +599,8 @@
                 "owner": "oh-jon-paul",
                 "repo": "awesome-i18n",
                 "stars": 409
-              }
+              },
+              "first_seen": "2026-08-28T23:33:14.090Z"
             }
           ],
           "description": null,
@@ -586,7 +622,8 @@
                 "owner": "oh-jon-paul",
                 "repo": "awesome-i18n",
                 "stars": 409
-              }
+              },
+              "first_seen": "2026-08-28T23:33:14.090Z"
             }
           ],
           "description": null,
@@ -608,7 +645,8 @@
                 "owner": "maximbilan",
                 "repo": "SwiftGoogleTranslate",
                 "stars": 101
-              }
+              },
+              "first_seen": "2026-08-28T23:33:14.090Z"
             }
           ],
           "description": null,
@@ -630,7 +668,8 @@
                 "owner": "twitter",
                 "repo": "twitter-cldr-rb",
                 "stars": 693
-              }
+              },
+              "first_seen": "2026-08-28T23:33:14.090Z"
             }
           ],
           "description": null,
@@ -651,8 +690,9 @@
                 "last_commit": "2024-07-23T22:12:59Z",
                 "owner": "nidhaloff",
                 "repo": "deep-translator",
-                "stars": 2039
-              }
+                "stars": 2040
+              },
+              "first_seen": "2026-08-28T23:33:14.090Z"
             }
           ],
           "description": null,
@@ -674,7 +714,8 @@
                 "owner": "kurtsson",
                 "repo": "jekyll-multiple-languages-plugin",
                 "stars": 935
-              }
+              },
+              "first_seen": "2026-08-28T23:33:14.090Z"
             },
             {
               "node_type": "item",
@@ -689,7 +730,8 @@
                 "owner": "liamzebedee",
                 "repo": "jekyll-i18n",
                 "stars": 39
-              }
+              },
+              "first_seen": "2026-08-28T23:33:14.090Z"
             }
           ],
           "description": null,
@@ -711,11 +753,12 @@
             "archived": false,
             "id": 27500243,
             "language": "C++",
-            "last_commit": "2026-08-26T12:21:11Z",
+            "last_commit": "2026-08-28T07:32:25Z",
             "owner": "google",
             "repo": "libphonenumber",
-            "stars": 18240
-          }
+            "stars": 18241
+          },
+          "first_seen": "2026-08-28T23:33:14.090Z"
         },
         {
           "node_type": "item",
@@ -730,7 +773,8 @@
             "owner": "kirilinsky",
             "repo": "anywhen",
             "stars": 0
-          }
+          },
+          "first_seen": "2026-08-28T23:33:14.090Z"
         }
       ],
       "title": "📅 Utilities"
@@ -750,8 +794,9 @@
             "last_commit": "2026-02-23T13:09:32Z",
             "owner": "CopyTranslator",
             "repo": "CopyTranslator",
-            "stars": 18055
-          }
+            "stars": 18054
+          },
+          "first_seen": "2026-08-28T23:33:14.090Z"
         },
         {
           "node_type": "item",
@@ -765,8 +810,9 @@
             "last_commit": "2026-08-23T22:47:34Z",
             "owner": "LibreTranslate",
             "repo": "LibreTranslate",
-            "stars": 16141
-          }
+            "stars": 16151
+          },
+          "first_seen": "2026-08-28T23:33:14.090Z"
         },
         {
           "node_type": "item",
@@ -780,8 +826,9 @@
             "last_commit": "2026-08-26T21:56:17Z",
             "owner": "niedev",
             "repo": "RTranslator",
-            "stars": 10359
-          }
+            "stars": 10365
+          },
+          "first_seen": "2026-08-28T23:33:14.090Z"
         },
         {
           "node_type": "item",
@@ -795,8 +842,9 @@
             "last_commit": "2026-08-08T12:09:57Z",
             "owner": "argosopentech",
             "repo": "argos-translate",
-            "stars": 6404
-          }
+            "stars": 6408
+          },
+          "first_seen": "2026-08-28T23:33:14.090Z"
         },
         {
           "node_type": "item",
@@ -811,7 +859,8 @@
             "owner": "lokalise",
             "repo": "i18n-ally",
             "stars": 4896
-          }
+          },
+          "first_seen": "2026-08-28T23:33:14.090Z"
         },
         {
           "node_type": "item",
@@ -825,8 +874,9 @@
             "last_commit": "2024-07-04T15:06:19Z",
             "owner": "crow-translate",
             "repo": "crow-translate",
-            "stars": 1978
-          }
+            "stars": 1979
+          },
+          "first_seen": "2026-08-28T23:33:14.090Z"
         },
         {
           "node_type": "item",
@@ -841,7 +891,8 @@
             "owner": "nyavro",
             "repo": "i18nPlugin",
             "stars": 77
-          }
+          },
+          "first_seen": "2026-08-28T23:33:14.090Z"
         },
         {
           "node_type": "item",
@@ -856,7 +907,8 @@
             "owner": "nickprotop",
             "repo": "LocalizationManager",
             "stars": 50
-          }
+          },
+          "first_seen": "2026-08-28T23:33:14.090Z"
         },
         {
           "node_type": "item",
@@ -871,7 +923,8 @@
             "owner": "i18n-actions",
             "repo": "ai-i18n",
             "stars": 19
-          }
+          },
+          "first_seen": "2026-08-28T23:33:14.090Z"
         },
         {
           "node_type": "item",
@@ -886,7 +939,8 @@
             "owner": "nanolaba",
             "repo": "readme-generator",
             "stars": 10
-          }
+          },
+          "first_seen": "2026-08-28T23:33:14.090Z"
         },
         {
           "node_type": "item",
@@ -901,7 +955,8 @@
             "owner": "juliandreas",
             "repo": "dire-cli",
             "stars": 3
-          }
+          },
+          "first_seen": "2026-08-28T23:33:14.090Z"
         },
         {
           "node_type": "item",
@@ -916,7 +971,8 @@
             "owner": "theluckystrike",
             "repo": "bln-i18n-checker",
             "stars": 0
-          }
+          },
+          "first_seen": "2026-08-28T23:33:14.090Z"
         },
         {
           "node_type": "item",
@@ -931,7 +987,8 @@
             "owner": "thezuck",
             "repo": "i18n-inline-editor-vite-demo",
             "stars": 0
-          }
+          },
+          "first_seen": "2026-08-28T23:33:14.090Z"
         },
         {
           "node_type": "item",
@@ -946,7 +1003,8 @@
             "owner": "i18n-agent",
             "repo": "i18n-convert",
             "stars": 0
-          }
+          },
+          "first_seen": "2026-08-28T23:33:14.090Z"
         }
       ],
       "title": "Apps and extensions for translation management"
@@ -967,7 +1025,8 @@
             "owner": "simplelocalize",
             "repo": "simplelocalize-react-intl",
             "stars": 7
-          }
+          },
+          "first_seen": "2026-08-28T23:33:14.090Z"
         },
         {
           "node_type": "item",
@@ -982,14 +1041,15 @@
             "owner": "simplelocalize",
             "repo": "simplelocalize-i18next",
             "stars": 5
-          }
+          },
+          "first_seen": "2026-08-28T23:33:14.090Z"
         }
       ],
       "title": "📚 Resources"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T23:47:21.254Z",
+    "last_updated": "2026-08-28T23:33:14.090Z",
     "original_repository_info": {
       "archived": false,
       "id": 338562865,
