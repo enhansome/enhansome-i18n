@@ -21,7 +21,7 @@
                 "open_issues": 66,
                 "owner": "lingui",
                 "repo": "js-lingui",
-                "stars": 5862,
+                "stars": 5863,
                 "topics": [
                   "hacktoberfest",
                   "i18n",
@@ -431,7 +431,7 @@
                 "open_issues": 49,
                 "owner": "amannn",
                 "repo": "next-intl",
-                "stars": 4354,
+                "stars": 4355,
                 "topics": [
                   "date-formatting",
                   "i18n",
@@ -869,11 +869,11 @@
                     "id": 201458091,
                     "language": "TypeScript",
                     "license": "MIT",
-                    "last_commit": "2026-08-29T12:39:39Z",
-                    "open_issues": 151,
+                    "last_commit": "2026-08-29T19:58:40Z",
+                    "open_issues": 156,
                     "owner": "jsverse",
                     "repo": "transloco",
-                    "stars": 2279,
+                    "stars": 2278,
                     "topics": [
                       "angular",
                       "i18n",
@@ -1244,7 +1244,7 @@
             "open_issues": 119,
             "owner": "google",
             "repo": "libphonenumber",
-            "stars": 18242,
+            "stars": 18241,
             "topics": []
           },
           "first_seen": "2026-08-28T23:33:14.090Z"
@@ -1298,7 +1298,7 @@
             "open_issues": 129,
             "owner": "CopyTranslator",
             "repo": "CopyTranslator",
-            "stars": 18054,
+            "stars": 18052,
             "topics": [
               "copytranslator",
               "dictionary",
@@ -1323,7 +1323,7 @@
             "open_issues": 124,
             "owner": "LibreTranslate",
             "repo": "LibreTranslate",
-            "stars": 16188,
+            "stars": 16233,
             "topics": [
               "api",
               "machine",
@@ -1350,7 +1350,7 @@
             "open_issues": 25,
             "owner": "niedev",
             "repo": "RTranslator",
-            "stars": 10365,
+            "stars": 10367,
             "topics": [
               "android",
               "android-app",
@@ -1386,7 +1386,7 @@
             "open_issues": 161,
             "owner": "argosopentech",
             "repo": "argos-translate",
-            "stars": 6411,
+            "stars": 6414,
             "topics": [
               "language-models",
               "linux",
@@ -1805,7 +1805,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T17:43:50.559Z",
+    "last_updated": "2026-08-30T18:04:08.603Z",
     "original_repository_info": {
       "archived": false,
       "description": "🌍 A curated list of i18n resources for all kind of languages and frameworks",
