@@ -17,11 +17,11 @@
                 "id": 79252808,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-09-03T15:05:21Z",
-                "open_issues": 71,
+                "last_commit": "2026-09-04T09:12:05Z",
+                "open_issues": 68,
                 "owner": "lingui",
                 "repo": "js-lingui",
-                "stars": 5871,
+                "stars": 5870,
                 "topics": [
                   "i18n",
                   "internationalization",
@@ -148,7 +148,7 @@
                 "open_issues": 17,
                 "owner": "messageformat",
                 "repo": "messageformat",
-                "stars": 1768,
+                "stars": 1769,
                 "topics": [
                   "language",
                   "messageformat"
@@ -519,11 +519,11 @@
                 "id": 891166919,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-09-03T17:23:14Z",
-                "open_issues": 130,
+                "last_commit": "2026-09-04T03:28:40Z",
+                "open_issues": 115,
                 "owner": "generaltranslation",
                 "repo": "gt",
-                "stars": 1055,
+                "stars": 1057,
                 "topics": [
                   "i18n",
                   "internationalization",
@@ -842,7 +842,7 @@
                     "id": 231953283,
                     "language": "TypeScript",
                     "license": "MIT",
-                    "last_commit": "2026-09-03T16:12:17Z",
+                    "last_commit": "2026-09-04T11:50:09Z",
                     "open_issues": 90,
                     "owner": "intlify",
                     "repo": "vue-i18n",
@@ -1246,7 +1246,7 @@
             "open_issues": 119,
             "owner": "google",
             "repo": "libphonenumber",
-            "stars": 18253,
+            "stars": 18257,
             "topics": []
           },
           "first_seen": "2026-08-28T23:33:14.090Z"
@@ -1325,7 +1325,7 @@
             "open_issues": 125,
             "owner": "LibreTranslate",
             "repo": "LibreTranslate",
-            "stars": 16285,
+            "stars": 16291,
             "topics": [
               "api",
               "machine",
@@ -1352,7 +1352,7 @@
             "open_issues": 26,
             "owner": "niedev",
             "repo": "RTranslator",
-            "stars": 10379,
+            "stars": 10381,
             "topics": [
               "android",
               "android-app",
@@ -1388,7 +1388,7 @@
             "open_issues": 161,
             "owner": "argosopentech",
             "repo": "argos-translate",
-            "stars": 6425,
+            "stars": 6428,
             "topics": [
               "language-models",
               "linux",
@@ -1418,7 +1418,7 @@
             "open_issues": 475,
             "owner": "lokalise",
             "repo": "i18n-ally",
-            "stars": 4896,
+            "stars": 4895,
             "topics": [
               "angular",
               "i10n",
@@ -1807,7 +1807,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-03T17:52:04.018Z",
+    "last_updated": "2026-09-04T17:36:21.956Z",
     "original_repository_info": {
       "archived": false,
       "description": "🌍 A curated list of i18n resources for all kind of languages and frameworks",
