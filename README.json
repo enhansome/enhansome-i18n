@@ -433,7 +433,7 @@
                 "open_issues": 49,
                 "owner": "amannn",
                 "repo": "next-intl",
-                "stars": 4356,
+                "stars": 4357,
                 "topics": [
                   "date-formatting",
                   "i18n",
@@ -519,7 +519,7 @@
                 "id": 891166919,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-09-05T16:41:34Z",
+                "last_commit": "2026-09-05T20:52:19Z",
                 "open_issues": 121,
                 "owner": "generaltranslation",
                 "repo": "gt",
@@ -818,7 +818,7 @@
                     "open_issues": 97,
                     "owner": "ngx-translate",
                     "repo": "core",
-                    "stars": 4662,
+                    "stars": 4661,
                     "topics": [
                       "angular",
                       "i18n",
@@ -842,8 +842,8 @@
                     "id": 231953283,
                     "language": "TypeScript",
                     "license": "MIT",
-                    "last_commit": "2026-09-04T11:50:09Z",
-                    "open_issues": 90,
+                    "last_commit": "2026-09-06T16:40:27Z",
+                    "open_issues": 93,
                     "owner": "intlify",
                     "repo": "vue-i18n",
                     "stars": 2711,
@@ -871,7 +871,7 @@
                     "id": 201458091,
                     "language": "TypeScript",
                     "license": "MIT",
-                    "last_commit": "2026-09-02T21:10:38Z",
+                    "last_commit": "2026-09-06T14:29:22Z",
                     "open_issues": 154,
                     "owner": "jsverse",
                     "repo": "transloco",
@@ -994,7 +994,7 @@
                 "language": null,
                 "license": null,
                 "last_commit": "2026-07-24T14:37:46Z",
-                "open_issues": 8,
+                "open_issues": 9,
                 "owner": "oh-jon-paul",
                 "repo": "awesome-i18n",
                 "stars": 409,
@@ -1033,7 +1033,7 @@
                 "language": null,
                 "license": null,
                 "last_commit": "2026-07-24T14:37:46Z",
-                "open_issues": 8,
+                "open_issues": 9,
                 "owner": "oh-jon-paul",
                 "repo": "awesome-i18n",
                 "stars": 409,
@@ -1246,7 +1246,7 @@
             "open_issues": 119,
             "owner": "google",
             "repo": "libphonenumber",
-            "stars": 18258,
+            "stars": 18260,
             "topics": []
           },
           "first_seen": "2026-08-28T23:33:14.090Z"
@@ -1325,7 +1325,7 @@
             "open_issues": 125,
             "owner": "LibreTranslate",
             "repo": "LibreTranslate",
-            "stars": 16296,
+            "stars": 16306,
             "topics": [
               "api",
               "machine",
@@ -1352,7 +1352,7 @@
             "open_issues": 28,
             "owner": "niedev",
             "repo": "RTranslator",
-            "stars": 10385,
+            "stars": 10387,
             "topics": [
               "android",
               "android-app",
@@ -1388,7 +1388,7 @@
             "open_issues": 161,
             "owner": "argosopentech",
             "repo": "argos-translate",
-            "stars": 6431,
+            "stars": 6437,
             "topics": [
               "language-models",
               "linux",
@@ -1418,7 +1418,7 @@
             "open_issues": 475,
             "owner": "lokalise",
             "repo": "i18n-ally",
-            "stars": 4895,
+            "stars": 4896,
             "topics": [
               "angular",
               "i10n",
@@ -1807,7 +1807,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-05T16:49:29.076Z",
+    "last_updated": "2026-09-06T17:02:31.834Z",
     "original_repository_info": {
       "archived": false,
       "description": "🌍 A curated list of i18n resources for all kind of languages and frameworks",
@@ -1816,7 +1816,7 @@
       "language": null,
       "license": null,
       "last_commit": "2026-07-24T14:37:46Z",
-      "open_issues": 8,
+      "open_issues": 9,
       "owner": "oh-jon-paul",
       "repo": "awesome-i18n",
       "stars": 409,
