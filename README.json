@@ -17,11 +17,11 @@
                 "id": 79252808,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-09-04T09:12:05Z",
+                "last_commit": "2026-09-07T08:48:14Z",
                 "open_issues": 69,
                 "owner": "lingui",
                 "repo": "js-lingui",
-                "stars": 5870,
+                "stars": 5873,
                 "topics": [
                   "i18n",
                   "internationalization",
@@ -57,7 +57,7 @@
                 "open_issues": 150,
                 "owner": "globalizejs",
                 "repo": "globalize",
-                "stars": 4836,
+                "stars": 4834,
                 "topics": [
                   "cldr",
                   "cldr-data",
@@ -214,7 +214,7 @@
                 "open_issues": 6,
                 "owner": "lukeed",
                 "repo": "rosetta",
-                "stars": 797,
+                "stars": 798,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:33:14.090Z"
@@ -433,7 +433,7 @@
                 "open_issues": 49,
                 "owner": "amannn",
                 "repo": "next-intl",
-                "stars": 4357,
+                "stars": 4358,
                 "topics": [
                   "date-formatting",
                   "i18n",
@@ -490,8 +490,8 @@
                 "id": 99022582,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-09-03T10:43:29Z",
-                "open_issues": 7,
+                "last_commit": "2026-09-07T00:27:02Z",
+                "open_issues": 9,
                 "owner": "zoontek",
                 "repo": "react-native-localize",
                 "stars": 2442,
@@ -519,7 +519,7 @@
                 "id": 891166919,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-09-05T20:52:19Z",
+                "last_commit": "2026-09-07T18:09:43Z",
                 "open_issues": 121,
                 "owner": "generaltranslation",
                 "repo": "gt",
@@ -685,8 +685,8 @@
                 "id": 53423192,
                 "language": "JavaScript",
                 "license": "MIT",
-                "last_commit": "2026-09-03T12:33:31Z",
-                "open_issues": 8,
+                "last_commit": "2026-09-07T15:20:58Z",
+                "open_issues": 7,
                 "owner": "sealninja",
                 "repo": "react-i18nify",
                 "stars": 154,
@@ -814,11 +814,11 @@
                     "id": 44045057,
                     "language": "TypeScript",
                     "license": "MIT",
-                    "last_commit": "2026-08-24T05:57:57Z",
+                    "last_commit": "2026-09-07T06:01:08Z",
                     "open_issues": 97,
                     "owner": "ngx-translate",
                     "repo": "core",
-                    "stars": 4661,
+                    "stars": 4662,
                     "topics": [
                       "angular",
                       "i18n",
@@ -842,7 +842,7 @@
                     "id": 231953283,
                     "language": "TypeScript",
                     "license": "MIT",
-                    "last_commit": "2026-09-06T16:40:27Z",
+                    "last_commit": "2026-09-07T17:06:24Z",
                     "open_issues": 93,
                     "owner": "intlify",
                     "repo": "vue-i18n",
@@ -871,8 +871,8 @@
                     "id": 201458091,
                     "language": "TypeScript",
                     "license": "MIT",
-                    "last_commit": "2026-09-06T14:29:22Z",
-                    "open_issues": 154,
+                    "last_commit": "2026-09-07T10:23:49Z",
+                    "open_issues": 155,
                     "owner": "jsverse",
                     "repo": "transloco",
                     "stars": 2276,
@@ -1246,7 +1246,7 @@
             "open_issues": 119,
             "owner": "google",
             "repo": "libphonenumber",
-            "stars": 18260,
+            "stars": 18261,
             "topics": []
           },
           "first_seen": "2026-08-28T23:33:14.090Z"
@@ -1300,7 +1300,7 @@
             "open_issues": 129,
             "owner": "CopyTranslator",
             "repo": "CopyTranslator",
-            "stars": 18058,
+            "stars": 18059,
             "topics": [
               "copytranslator",
               "dictionary",
@@ -1325,7 +1325,7 @@
             "open_issues": 125,
             "owner": "LibreTranslate",
             "repo": "LibreTranslate",
-            "stars": 16306,
+            "stars": 16314,
             "topics": [
               "api",
               "machine",
@@ -1352,7 +1352,7 @@
             "open_issues": 28,
             "owner": "niedev",
             "repo": "RTranslator",
-            "stars": 10387,
+            "stars": 10388,
             "topics": [
               "android",
               "android-app",
@@ -1388,7 +1388,7 @@
             "open_issues": 161,
             "owner": "argosopentech",
             "repo": "argos-translate",
-            "stars": 6437,
+            "stars": 6443,
             "topics": [
               "language-models",
               "linux",
@@ -1418,7 +1418,7 @@
             "open_issues": 475,
             "owner": "lokalise",
             "repo": "i18n-ally",
-            "stars": 4896,
+            "stars": 4895,
             "topics": [
               "angular",
               "i10n",
@@ -1451,7 +1451,7 @@
             "open_issues": 105,
             "owner": "crow-translate",
             "repo": "crow-translate",
-            "stars": 1979,
+            "stars": 1978,
             "topics": [
               "bing",
               "dbus-api",
@@ -1807,7 +1807,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-06T17:02:31.834Z",
+    "last_updated": "2026-09-07T18:44:03.846Z",
     "original_repository_info": {
       "archived": false,
       "description": "🌍 A curated list of i18n resources for all kind of languages and frameworks",
