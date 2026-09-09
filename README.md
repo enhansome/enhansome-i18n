@@ -24,13 +24,13 @@
 
 ### JavaScript / TypeScript
 
-* [js-lingui](https://github.com/lingui/js-lingui) ⭐ 5,874 | 🐛 70 | 🌐 TypeScript | 📅 2026-09-08 - readable, automated, and optimized internationalization
-* [jquery/globalize](https://github.com/jquery/globalize) ⭐ 4,834 | 🐛 150 | 🌐 JavaScript | 📅 2025-09-29 - library for i18n that leverages the official Unicode CLDR JSON data
+* [js-lingui](https://github.com/lingui/js-lingui) ⭐ 5,873 | 🐛 70 | 🌐 TypeScript | 📅 2026-09-08 - readable, automated, and optimized internationalization
+* [jquery/globalize](https://github.com/jquery/globalize) ⭐ 4,833 | 🐛 150 | 🌐 JavaScript | 📅 2025-09-29 - library for i18n that leverages the official Unicode CLDR JSON data
 * (archived) [facebook/fbt](https://github.com/facebook/fbt) ⚠️ Archived - i18n framework for JS/TS designed to be powerful, flexible, simple and intuitive
 * [typesafe-i18n](https://github.com/ivanhofer/typesafe-i18n) ⭐ 2,475 | 🐛 41 | 🌐 TypeScript | 📅 2026-03-22 - type-safe, lightweight localization library for TypeScript with no external dependencies
-* [messageformat](https://github.com/messageformat/messageformat) ⭐ 1,769 | 🐛 17 | 🌐 TypeScript | 📅 2026-06-29 - ICU MessageFormat for JavaScript, plural and gender capable messages
+* [messageformat](https://github.com/messageformat/messageformat) ⭐ 1,768 | 🐛 17 | 🌐 TypeScript | 📅 2026-06-29 - ICU MessageFormat for JavaScript, plural and gender capable messages
 * (archived) [Intl.js](https://github.com/andyearnshaw/Intl.js) ⚠️ Archived - implementation of the ECMAScript Internationalization API
-* [Jed](https://github.com/messageformat/Jed/) ⭐ 871 | 🐛 16 | 🌐 JavaScript | 📅 2017-09-13 - gettext style i18n library
+* [Jed](https://github.com/messageformat/Jed/) ⭐ 870 | 🐛 16 | 🌐 JavaScript | 📅 2017-09-13 - gettext style i18n library
 * [rosetta](https://github.com/lukeed/rosetta) ⭐ 798 | 🐛 6 | 🌐 JavaScript | 📅 2024-01-20 - A general purpose internationalization library in \~300 bytes (including dependencies)
 * [eo-locale](https://github.com/ibitcy/eo-locale) ⭐ 347 | 🐛 14 | 🌐 TypeScript | 📅 2024-12-10 - elegant lightweight library based on internationalization API
 * [schummar-translate](https://github.com/schummar/schummar-translate) ⭐ 136 | 🐛 2 | 🌐 TypeScript | 📅 2026-08-08 - TypeScript powered translation library for React and Node.js
@@ -55,15 +55,15 @@
 
 ### React framework
 
-* [next-intl](https://github.com/amannn/next-intl) ⭐ 4,358 | 🐛 49 | 🌐 TypeScript | 📅 2026-09-01 - minimal solution for internationalization in Next.js
+* [next-intl](https://github.com/amannn/next-intl) ⭐ 4,358 | 🐛 49 | 🌐 TypeScript | 📅 2026-09-09 - minimal solution for internationalization in Next.js
 * [next-translate](https://github.com/vinissimus/next-translate) ⭐ 2,735 | 🐛 129 | 🌐 JavaScript | 📅 2026-06-29 - easy i18n for NextJS, \~1kb of size
 * [react-native-localize](https://github.com/zoontek/react-native-localize) ⭐ 2,442 | 🐛 9 | 🌐 TypeScript | 📅 2026-09-07 - toolbox for your React Native app localization
-* [general translation](https://github.com/generaltranslation/gt) ⭐ 1,058 | 🐛 124 | 🌐 TypeScript | 📅 2026-09-07 - component translation for Next.js with SSR/SSG
+* [general translation](https://github.com/generaltranslation/gt) ⭐ 1,058 | 🐛 126 | 🌐 TypeScript | 📅 2026-09-09 - component translation for Next.js with SSR/SSG
 * [react-localization](https://github.com/stefalda/react-localization) ⭐ 371 | 🐛 14 | 🌐 TypeScript | 📅 2026-02-21 - translate using the same syntax as used in ReactNativeLocalization
 * [react-localize-redux](https://github.com/ryandrewjohnson/react-localize-redux) ⭐ 370 | 🐛 43 | 🌐 JavaScript | 📅 2022-12-30 - localization library for handling translations
-* [react-translate-component](https://github.com/martinandert/react-translate-component) ⭐ 319 | 🐛 9 | 🌐 JavaScript | 📅 2018-02-28 - component that utilizes the Counterpart/Interpolate components
+* [react-translate-component](https://github.com/martinandert/react-translate-component) ⭐ 317 | 🐛 9 | 🌐 JavaScript | 📅 2018-02-28 - component that utilizes the Counterpart/Interpolate components
 * [talkr](https://github.com/DoneDeal0/Talkr) ⭐ 250 | 🐛 0 | 🌐 TypeScript | 📅 2024-09-29 - light i18n provider for React (< 1kb), Typescript, smart autocompletion, plural rules
-* [react-translated](https://github.com/amsul/react-translated) ⭐ 177 | 🐛 43 | 🌐 JavaScript | 📅 2022-12-07 - dead simple way to add complex translations
+* [react-translated](https://github.com/amsul/react-translated) ⭐ 176 | 🐛 43 | 🌐 JavaScript | 📅 2022-12-07 - dead simple way to add complex translations
 * [react-i18nify](https://github.com/sealninja/react-i18nify) ⭐ 154 | 🐛 6 | 🌐 JavaScript | 📅 2026-09-08 - simple i18n translation and localization components and helpers for React
 * [react-translate](https://github.com/bloodyowl/react-translate) ⭐ 109 | 🐛 8 | 🌐 JavaScript | 📅 2022-12-08 - internationalization for React
 * [react-persian](https://github.com/evandhq/react-persian) ⭐ 82 | 🐛 7 | 🌐 JavaScript | 📅 2017-12-08 - set of react components for Persian localization
@@ -77,8 +77,8 @@
 #### Other JS/TS frameworks
 
 * (Angular) [ngx-translate](https://github.com/ngx-translate/core) ⭐ 4,662 | 🐛 97 | 🌐 TypeScript | 📅 2026-09-07 - i18n for Angular
-* (VueJS) [vue-i18n](https://github.com/intlify/vue-i18n) ⭐ 2,712 | 🐛 93 | 🌐 TypeScript | 📅 2026-09-08 - i18n for VueJS
-* (Angular) [transloco](https://github.com/jsverse/transloco) ⭐ 2,277 | 🐛 156 | 🌐 TypeScript | 📅 2026-09-08 - i18n for Angular
+* (VueJS) [vue-i18n](https://github.com/intlify/vue-i18n) ⭐ 2,712 | 🐛 94 | 🌐 TypeScript | 📅 2026-09-09 - i18n for VueJS
+* (Angular) [transloco](https://github.com/jsverse/transloco) ⭐ 2,278 | 🐛 155 | 🌐 TypeScript | 📅 2026-09-09 - i18n for Angular
 * (Svelte) [svelte-i18n](https://github.com/kaisermann/svelte-i18n) ⭐ 1,377 | 🐛 74 | 🌐 TypeScript | 📅 2024-10-21 - i18n for Svelte
 * (Angular) [ng-extract-i18n-merge](https://github.com/daniel-sc/ng-extract-i18n-merge) ⭐ 222 | 🐛 14 | 🌐 TypeScript | 📅 2026-06-06 - manage translation files for native Angular CLI i18n
 * (VueJS) [sweet-i18n](https://github.com/wood3n/sweet-i18n) ⭐ 30 | 🐛 1 | 🌐 TypeScript | 📅 2023-05-08 - automatic extraction and conversion of Chinese characters in Vue/JS files
@@ -119,7 +119,7 @@
 
 ## 📅 Utilities
 
-* (JS) [googlei18n/libphonenumber](https://github.com/googlei18n/libphonenumber) ⭐ 18,261 | 🐛 120 | 🌐 C++ | 📅 2026-09-01 - parsing, formatting, and validating phone numbers (Java, C++, JavaScript)
+* (JS) [googlei18n/libphonenumber](https://github.com/googlei18n/libphonenumber) ⭐ 18,261 | 🐛 121 | 🌐 C++ | 📅 2026-09-09 - parsing, formatting, and validating phone numbers (Java, C++, JavaScript)
 * (JS) [anywhen](https://github.com/kirilinsky/anywhen) ⚠️ Archived - relative and absolute fuzzy date formatting for any language, zero deps, native Intl
 * (JS) [Luxon](https://moment.github.io/luxon/) - powerful, modern, and friendly wrapper for JavaScript dates and times (replaces momentjs)
 * (JS) [date-fns](https://date-fns.org) - JavaScript library for dates
@@ -128,10 +128,10 @@
 
 ## Apps and extensions for translation management
 
-* [Copy Translator](https://github.com/CopyTranslator/CopyTranslator) ⭐ 18,058 | 🐛 129 | 🌐 TypeScript | 📅 2026-02-23 - cross-platform app that automatically translate texts when copied
-* [LibreTranslate](https://github.com/uav4geo/LibreTranslate) ⭐ 16,322 | 🐛 126 | 🌐 Python | 📅 2026-09-03 - self-hosted web application to translate texts
-* [RTranslator](https://github.com/niedev/RTranslator) ⭐ 10,390 | 🐛 28 | 🌐 Java | 📅 2026-08-26 - simultaneous translator app for Android based on Google's API
-* [Argos Translate](https://github.com/argosopentech/argos-translate) ⭐ 6,446 | 🐛 161 | 🌐 Python | 📅 2026-08-08 - open source offline translation app based on OpenNMT
+* [Copy Translator](https://github.com/CopyTranslator/CopyTranslator) ⭐ 18,059 | 🐛 129 | 🌐 TypeScript | 📅 2026-02-23 - cross-platform app that automatically translate texts when copied
+* [LibreTranslate](https://github.com/uav4geo/LibreTranslate) ⭐ 16,335 | 🐛 126 | 🌐 Python | 📅 2026-09-03 - self-hosted web application to translate texts
+* [RTranslator](https://github.com/niedev/RTranslator) ⭐ 10,392 | 🐛 28 | 🌐 Java | 📅 2026-08-26 - simultaneous translator app for Android based on Google's API
+* [Argos Translate](https://github.com/argosopentech/argos-translate) ⭐ 6,451 | 🐛 161 | 🌐 Python | 📅 2026-08-08 - open source offline translation app based on OpenNMT
 * [i18n-ally](https://github.com/antfu/i18n-ally) ⭐ 4,895 | 🐛 475 | 🌐 TypeScript | 📅 2024-12-13 - VS Code extension for i18n
 * [Crow Translate](https://github.com/crow-translate/crow-translate) ⚠️ Archived - lightweight desktop translator
 * [IntelliJ plugin for extracting i18n keys](https://github.com/nyavro/i18nPlugin) ⭐ 77 | 🐛 51 | 🌐 Kotlin | 📅 2023-04-07 - IntelliJ IDEA plugin for extracing i18n keys
@@ -222,4 +222,4 @@
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-08._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-09._
