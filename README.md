@@ -27,7 +27,7 @@
 * [js-lingui](https://github.com/lingui/js-lingui) ⭐ 5,876 | 🐛 66 | 🌐 TypeScript | 📅 2026-09-11 - readable, automated, and optimized internationalization
 * [jquery/globalize](https://github.com/jquery/globalize) ⭐ 4,833 | 🐛 150 | 🌐 JavaScript | 📅 2025-09-29 - library for i18n that leverages the official Unicode CLDR JSON data
 * (archived) [facebook/fbt](https://github.com/facebook/fbt) ⚠️ Archived - i18n framework for JS/TS designed to be powerful, flexible, simple and intuitive
-* [typesafe-i18n](https://github.com/ivanhofer/typesafe-i18n) ⭐ 2,475 | 🐛 41 | 🌐 TypeScript | 📅 2026-03-22 - type-safe, lightweight localization library for TypeScript with no external dependencies
+* [typesafe-i18n](https://github.com/ivanhofer/typesafe-i18n) ⭐ 2,474 | 🐛 42 | 🌐 TypeScript | 📅 2026-03-22 - type-safe, lightweight localization library for TypeScript with no external dependencies
 * [messageformat](https://github.com/messageformat/messageformat) ⭐ 1,768 | 🐛 17 | 🌐 TypeScript | 📅 2026-06-29 - ICU MessageFormat for JavaScript, plural and gender capable messages
 * (archived) [Intl.js](https://github.com/andyearnshaw/Intl.js) ⚠️ Archived - implementation of the ECMAScript Internationalization API
 * [Jed](https://github.com/messageformat/Jed/) ⭐ 870 | 🐛 16 | 🌐 JavaScript | 📅 2017-09-13 - gettext style i18n library
@@ -55,10 +55,10 @@
 
 ### React framework
 
-* [next-intl](https://github.com/amannn/next-intl) ⭐ 4,363 | 🐛 48 | 🌐 TypeScript | 📅 2026-09-11 - minimal solution for internationalization in Next.js
-* [next-translate](https://github.com/vinissimus/next-translate) ⭐ 2,735 | 🐛 129 | 🌐 JavaScript | 📅 2026-06-29 - easy i18n for NextJS, \~1kb of size
-* [react-native-localize](https://github.com/zoontek/react-native-localize) ⭐ 2,442 | 🐛 10 | 🌐 TypeScript | 📅 2026-09-10 - toolbox for your React Native app localization
-* [general translation](https://github.com/generaltranslation/gt) ⭐ 1,058 | 🐛 127 | 🌐 TypeScript | 📅 2026-09-11 - component translation for Next.js with SSR/SSG
+* [next-intl](https://github.com/amannn/next-intl) ⭐ 4,363 | 🐛 50 | 🌐 TypeScript | 📅 2026-09-11 - minimal solution for internationalization in Next.js
+* [next-translate](https://github.com/vinissimus/next-translate) ⭐ 2,734 | 🐛 129 | 🌐 JavaScript | 📅 2026-06-29 - easy i18n for NextJS, \~1kb of size
+* [react-native-localize](https://github.com/zoontek/react-native-localize) ⭐ 2,441 | 🐛 10 | 🌐 TypeScript | 📅 2026-09-10 - toolbox for your React Native app localization
+* [general translation](https://github.com/generaltranslation/gt) ⭐ 1,058 | 🐛 127 | 🌐 TypeScript | 📅 2026-09-12 - component translation for Next.js with SSR/SSG
 * [react-localization](https://github.com/stefalda/react-localization) ⭐ 371 | 🐛 14 | 🌐 TypeScript | 📅 2026-02-21 - translate using the same syntax as used in ReactNativeLocalization
 * [react-localize-redux](https://github.com/ryandrewjohnson/react-localize-redux) ⭐ 369 | 🐛 43 | 🌐 JavaScript | 📅 2022-12-30 - localization library for handling translations
 * [react-translate-component](https://github.com/martinandert/react-translate-component) ⭐ 317 | 🐛 9 | 🌐 JavaScript | 📅 2018-02-28 - component that utilizes the Counterpart/Interpolate components
@@ -108,7 +108,7 @@
 
 ### Python
 
-* [deep-translator](https://github.com/nidhaloff/deep-translator) ⭐ 2,045 | 🐛 66 | 🌐 Python | 📅 2024-07-23 - library to translate between different languages in a simple way using multiple translators
+* [deep-translator](https://github.com/nidhaloff/deep-translator) ⭐ 2,043 | 🐛 66 | 🌐 Python | 📅 2024-07-23 - library to translate between different languages in a simple way using multiple translators
 * [Python-i18n](https://pypi.org/project/python-i18n/) - internationalization package
 * [LangLint](https://github.com/HzaCode/Langlint) - high-performance Rust-powered automated translation tool for code comments and docstrings
 
@@ -119,7 +119,7 @@
 
 ## 📅 Utilities
 
-* (JS) [googlei18n/libphonenumber](https://github.com/googlei18n/libphonenumber) ⭐ 18,264 | 🐛 119 | 🌐 C++ | 📅 2026-09-10 - parsing, formatting, and validating phone numbers (Java, C++, JavaScript)
+* (JS) [googlei18n/libphonenumber](https://github.com/googlei18n/libphonenumber) ⭐ 18,265 | 🐛 119 | 🌐 C++ | 📅 2026-09-10 - parsing, formatting, and validating phone numbers (Java, C++, JavaScript)
 * (JS) [anywhen](https://github.com/kirilinsky/anywhen) ⚠️ Archived - relative and absolute fuzzy date formatting for any language, zero deps, native Intl
 * (JS) [Luxon](https://moment.github.io/luxon/) - powerful, modern, and friendly wrapper for JavaScript dates and times (replaces momentjs)
 * (JS) [date-fns](https://date-fns.org) - JavaScript library for dates
@@ -128,9 +128,9 @@
 
 ## Apps and extensions for translation management
 
-* [Copy Translator](https://github.com/CopyTranslator/CopyTranslator) ⭐ 18,061 | 🐛 129 | 🌐 TypeScript | 📅 2026-02-23 - cross-platform app that automatically translate texts when copied
-* [LibreTranslate](https://github.com/uav4geo/LibreTranslate) ⭐ 16,346 | 🐛 126 | 🌐 Python | 📅 2026-09-03 - self-hosted web application to translate texts
-* [RTranslator](https://github.com/niedev/RTranslator) ⭐ 10,399 | 🐛 28 | 🌐 Java | 📅 2026-08-26 - simultaneous translator app for Android based on Google's API
+* [Copy Translator](https://github.com/CopyTranslator/CopyTranslator) ⭐ 18,065 | 🐛 129 | 🌐 TypeScript | 📅 2026-02-23 - cross-platform app that automatically translate texts when copied
+* [LibreTranslate](https://github.com/uav4geo/LibreTranslate) ⭐ 16,357 | 🐛 126 | 🌐 Python | 📅 2026-09-03 - self-hosted web application to translate texts
+* [RTranslator](https://github.com/niedev/RTranslator) ⭐ 10,400 | 🐛 28 | 🌐 Java | 📅 2026-08-26 - simultaneous translator app for Android based on Google's API
 * [Argos Translate](https://github.com/argosopentech/argos-translate) ⭐ 6,453 | 🐛 161 | 🌐 Python | 📅 2026-08-08 - open source offline translation app based on OpenNMT
 * [i18n-ally](https://github.com/antfu/i18n-ally) ⭐ 4,895 | 🐛 475 | 🌐 TypeScript | 📅 2024-12-13 - VS Code extension for i18n
 * [Crow Translate](https://github.com/crow-translate/crow-translate) ⚠️ Archived - lightweight desktop translator
@@ -222,4 +222,4 @@
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-11._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-12._
