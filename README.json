@@ -21,7 +21,7 @@
                 "open_issues": 66,
                 "owner": "lingui",
                 "repo": "js-lingui",
-                "stars": 5876,
+                "stars": 5875,
                 "topics": [
                   "i18n",
                   "internationalization",
@@ -57,7 +57,7 @@
                 "open_issues": 150,
                 "owner": "globalizejs",
                 "repo": "globalize",
-                "stars": 4833,
+                "stars": 4832,
                 "topics": [
                   "cldr",
                   "cldr-data",
@@ -433,7 +433,7 @@
                 "open_issues": 50,
                 "owner": "amannn",
                 "repo": "next-intl",
-                "stars": 4363,
+                "stars": 4365,
                 "topics": [
                   "date-formatting",
                   "i18n",
@@ -490,8 +490,8 @@
                 "id": 99022582,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-09-10T13:11:50Z",
-                "open_issues": 10,
+                "last_commit": "2026-09-13T09:52:36Z",
+                "open_issues": 12,
                 "owner": "zoontek",
                 "repo": "react-native-localize",
                 "stars": 2441,
@@ -818,7 +818,7 @@
                     "open_issues": 97,
                     "owner": "ngx-translate",
                     "repo": "core",
-                    "stars": 4662,
+                    "stars": 4661,
                     "topics": [
                       "angular",
                       "i18n",
@@ -842,8 +842,8 @@
                     "id": 231953283,
                     "language": "TypeScript",
                     "license": "MIT",
-                    "last_commit": "2026-09-11T05:34:05Z",
-                    "open_issues": 93,
+                    "last_commit": "2026-09-13T10:05:42Z",
+                    "open_issues": 94,
                     "owner": "intlify",
                     "repo": "vue-i18n",
                     "stars": 2712,
@@ -871,8 +871,8 @@
                     "id": 201458091,
                     "language": "TypeScript",
                     "license": "MIT",
-                    "last_commit": "2026-09-09T09:49:04Z",
-                    "open_issues": 155,
+                    "last_commit": "2026-09-13T15:21:59Z",
+                    "open_issues": 159,
                     "owner": "jsverse",
                     "repo": "transloco",
                     "stars": 2280,
@@ -1246,7 +1246,7 @@
             "open_issues": 119,
             "owner": "google",
             "repo": "libphonenumber",
-            "stars": 18265,
+            "stars": 18266,
             "topics": []
           },
           "first_seen": "2026-08-28T23:33:14.090Z"
@@ -1300,7 +1300,7 @@
             "open_issues": 129,
             "owner": "CopyTranslator",
             "repo": "CopyTranslator",
-            "stars": 18065,
+            "stars": 18068,
             "topics": [
               "copytranslator",
               "dictionary",
@@ -1325,7 +1325,7 @@
             "open_issues": 126,
             "owner": "LibreTranslate",
             "repo": "LibreTranslate",
-            "stars": 16357,
+            "stars": 16474,
             "topics": [
               "api",
               "machine",
@@ -1352,7 +1352,7 @@
             "open_issues": 28,
             "owner": "niedev",
             "repo": "RTranslator",
-            "stars": 10400,
+            "stars": 10401,
             "topics": [
               "android",
               "android-app",
@@ -1388,7 +1388,7 @@
             "open_issues": 161,
             "owner": "argosopentech",
             "repo": "argos-translate",
-            "stars": 6453,
+            "stars": 6460,
             "topics": [
               "language-models",
               "linux",
@@ -1807,7 +1807,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-12T17:09:59.517Z",
+    "last_updated": "2026-09-13T17:24:37.395Z",
     "original_repository_info": {
       "archived": false,
       "description": "🌍 A curated list of i18n resources for all kind of languages and frameworks",
