@@ -17,11 +17,11 @@
                 "id": 79252808,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-09-14T14:23:56Z",
+                "last_commit": "2026-09-17T13:45:57Z",
                 "open_issues": 66,
                 "owner": "lingui",
                 "repo": "js-lingui",
-                "stars": 5876,
+                "stars": 5879,
                 "topics": [
                   "i18n",
                   "internationalization",
@@ -113,7 +113,7 @@
                 "open_issues": 42,
                 "owner": "codingcommons",
                 "repo": "typesafe-i18n",
-                "stars": 2473,
+                "stars": 2475,
                 "topics": [
                   "angular",
                   "angular2",
@@ -320,6 +320,46 @@
             },
             {
               "node_type": "item",
+              "title": "BidiLens",
+              "description": "per-block rtl/ltr direction and inline isolation without rewriting source text",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "Source-preserving mixed RTL/LTR text for AI chat, Markdown, web and Android. Per-block direction, inline isolation, streaming and bidi-control auditing.",
+                "homepage": "https://codeinscrubs.github.io/BidiLens/",
+                "id": 1306092336,
+                "language": "TypeScript",
+                "license": "MIT",
+                "last_commit": "2026-09-14T18:24:11Z",
+                "open_issues": 4,
+                "owner": "CodeinScrubs",
+                "repo": "BidiLens",
+                "stars": 11,
+                "topics": [
+                  "accessibility",
+                  "ai",
+                  "android",
+                  "arabic",
+                  "bidi",
+                  "hebrew",
+                  "i18n",
+                  "internationalization",
+                  "localization",
+                  "ltr",
+                  "markdown",
+                  "markdown-it",
+                  "persian",
+                  "react",
+                  "rtl",
+                  "security",
+                  "typescript",
+                  "unicode"
+                ]
+              },
+              "first_seen": "2026-09-17T18:14:05.484Z"
+            },
+            {
+              "node_type": "item",
               "title": "date-formatter-i18n",
               "description": "lightweight library for formatting dates with i18n support, relative time",
               "children": [],
@@ -346,6 +386,38 @@
                 ]
               },
               "first_seen": "2026-08-28T23:33:14.090Z"
+            },
+            {
+              "node_type": "item",
+              "title": "bazi-terms",
+              "description": "bilingual (zh/en) bazi & four-pillars terminology database with a translate() helper",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "Bilingual Bazi (Four Pillars / 八字) terminology database + React chart component. A presentation layer that renders the chart data you pass in — bring your own engine.",
+                "homepage": "https://askingming.com",
+                "id": 1359022188,
+                "language": "TypeScript",
+                "license": "MIT",
+                "last_commit": "2026-09-07T10:57:10Z",
+                "open_issues": 0,
+                "owner": "favkit",
+                "repo": "bazi-kit",
+                "stars": 3,
+                "topics": [
+                  "bazi",
+                  "chart",
+                  "chinese-astrology",
+                  "four-pillars",
+                  "four-pillars-of-destiny",
+                  "i18n",
+                  "react",
+                  "react-component",
+                  "terminology",
+                  "typescript"
+                ]
+              },
+              "first_seen": "2026-09-17T18:14:05.484Z"
             },
             {
               "node_type": "item",
@@ -519,11 +591,11 @@
                 "id": 891166919,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-09-16T16:38:15Z",
+                "last_commit": "2026-09-17T00:37:13Z",
                 "open_issues": 125,
                 "owner": "generaltranslation",
                 "repo": "gt",
-                "stars": 1058,
+                "stars": 1059,
                 "topics": [
                   "i18n",
                   "internationalization",
@@ -842,7 +914,7 @@
                     "id": 231953283,
                     "language": "TypeScript",
                     "license": "MIT",
-                    "last_commit": "2026-09-16T14:50:26Z",
+                    "last_commit": "2026-09-17T17:36:49Z",
                     "open_issues": 89,
                     "owner": "intlify",
                     "repo": "vue-i18n",
@@ -875,7 +947,7 @@
                     "open_issues": 160,
                     "owner": "jsverse",
                     "repo": "transloco",
-                    "stars": 2280,
+                    "stars": 2281,
                     "topics": [
                       "angular",
                       "i18n",
@@ -912,6 +984,38 @@
                     ]
                   },
                   "first_seen": "2026-08-28T23:33:14.090Z"
+                },
+                {
+                  "node_type": "item",
+                  "title": "(Nuxt) nuxt-i18n-micro",
+                  "description": "strategy-based i18n; @i18n-micro packages for vue/react/preact/solid/astro/node",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "description": "Nuxt I18n Micro is a fast, simple, and lightweight internationalization (i18n) module for Nuxt",
+                    "homepage": "https://s00d.github.io/nuxt-i18n-micro/",
+                    "id": 842990422,
+                    "language": "TypeScript",
+                    "license": "MIT",
+                    "last_commit": "2026-09-14T15:07:07Z",
+                    "open_issues": 0,
+                    "owner": "s00d",
+                    "repo": "nuxt-i18n-micro",
+                    "stars": 251,
+                    "topics": [
+                      "i18n",
+                      "internationalization",
+                      "localization",
+                      "multi-language",
+                      "nuxt",
+                      "nuxt-module",
+                      "nuxt3",
+                      "performance",
+                      "seo",
+                      "translation"
+                    ]
+                  },
+                  "first_seen": "2026-09-17T18:14:05.484Z"
                 },
                 {
                   "node_type": "item",
@@ -968,6 +1072,37 @@
                     ]
                   },
                   "first_seen": "2026-08-28T23:33:14.090Z"
+                },
+                {
+                  "node_type": "item",
+                  "title": "(Angular) ngx-runtime-i18n",
+                  "description": "signals-first, SSR-safe runtime i18n for Angular",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "description": "A modern runtime internationalisation library for Angular 16+, compatible with SSR and hydration. Fallback chains, persistent catalog caching, and developer-friendly helpers, all powered by signals.",
+                    "homepage": "https://www.npmjs.com/package/@ngx-runtime-i18n/core",
+                    "id": 1082417295,
+                    "language": "TypeScript",
+                    "license": "MIT",
+                    "last_commit": "2026-09-13T05:41:48Z",
+                    "open_issues": 14,
+                    "owner": "AshwinSathian",
+                    "repo": "ngx-runtime-i18n",
+                    "stars": 3,
+                    "topics": [
+                      "angular",
+                      "angular-i18n",
+                      "angular-ssr",
+                      "i18n",
+                      "library",
+                      "localization",
+                      "signals",
+                      "ssr",
+                      "typescript"
+                    ]
+                  },
+                  "first_seen": "2026-09-17T18:14:05.484Z"
                 }
               ],
               "description": null,
@@ -993,8 +1128,8 @@
                 "id": 338562865,
                 "language": null,
                 "license": null,
-                "last_commit": "2026-07-24T14:37:46Z",
-                "open_issues": 11,
+                "last_commit": "2026-09-17T12:19:11Z",
+                "open_issues": 0,
                 "owner": "oh-jon-paul",
                 "repo": "awesome-i18n",
                 "stars": 409,
@@ -1032,8 +1167,8 @@
                 "id": 338562865,
                 "language": null,
                 "license": null,
-                "last_commit": "2026-07-24T14:37:46Z",
-                "open_issues": 11,
+                "last_commit": "2026-09-17T12:19:11Z",
+                "open_issues": 0,
                 "owner": "oh-jon-paul",
                 "repo": "awesome-i18n",
                 "stars": 409,
@@ -1146,7 +1281,7 @@
                 "open_issues": 66,
                 "owner": "nidhaloff",
                 "repo": "deep-translator",
-                "stars": 2044,
+                "stars": 2045,
                 "topics": [
                   "google-translator",
                   "hacktoberfest",
@@ -1253,6 +1388,44 @@
         },
         {
           "node_type": "item",
+          "title": "(JS) ux-ui-audit",
+          "description": "browser probes that audit arabic plural agreement, numeral mixing and bidi hazards",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Evidence-backed UX/UI audit skill for Claude. Browser probes that measure real numbers — WCAG contrast, Fitts, Hick, Gestalt, design-system conformance — plus an Arabic/RTL engine no mainstream tool covers.",
+            "homepage": "https://uxbyissa.com",
+            "id": 1353441541,
+            "language": "JavaScript",
+            "license": "MIT",
+            "last_commit": "2026-09-01T13:04:52Z",
+            "open_issues": 4,
+            "owner": "uxbyissa",
+            "repo": "ux-ui-audit",
+            "stars": 2,
+            "topics": [
+              "accessibility",
+              "arabic",
+              "bidi",
+              "claude-code",
+              "claude-skill",
+              "design-review",
+              "design-system",
+              "devtools",
+              "heuristic-evaluation",
+              "i18n",
+              "localization",
+              "rtl",
+              "usability",
+              "ux",
+              "ux-research",
+              "wcag"
+            ]
+          },
+          "first_seen": "2026-09-17T18:14:05.484Z"
+        },
+        {
+          "node_type": "item",
           "title": "(JS) anywhen",
           "description": "relative and absolute fuzzy date formatting for any language, zero deps, native Intl",
           "children": [],
@@ -1300,7 +1473,7 @@
             "open_issues": 129,
             "owner": "CopyTranslator",
             "repo": "CopyTranslator",
-            "stars": 18074,
+            "stars": 18075,
             "topics": [
               "copytranslator",
               "dictionary",
@@ -1325,7 +1498,7 @@
             "open_issues": 126,
             "owner": "LibreTranslate",
             "repo": "LibreTranslate",
-            "stars": 16666,
+            "stars": 16688,
             "topics": [
               "api",
               "machine",
@@ -1388,7 +1561,7 @@
             "open_issues": 161,
             "owner": "argosopentech",
             "repo": "argos-translate",
-            "stars": 6473,
+            "stars": 6480,
             "topics": [
               "language-models",
               "linux",
@@ -1418,7 +1591,7 @@
             "open_issues": 475,
             "owner": "lokalise",
             "repo": "i18n-ally",
-            "stars": 4895,
+            "stars": 4894,
             "topics": [
               "angular",
               "i10n",
@@ -1467,6 +1640,35 @@
             ]
           },
           "first_seen": "2026-08-28T23:33:14.090Z"
+        },
+        {
+          "node_type": "item",
+          "title": "enum-plus",
+          "description": "localized labels, badges and dropdown options straight from your enums, with React/Vue/Next plugins",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "A drop-in replacement for native enum. Like native enum, but much better! ",
+            "homepage": "https://shijistar.github.io/enum-plus/",
+            "id": 546112882,
+            "language": "TypeScript",
+            "license": "MIT",
+            "last_commit": "2026-09-14T03:03:20Z",
+            "open_issues": 1,
+            "owner": "shijistar",
+            "repo": "enum-plus",
+            "stars": 207,
+            "topics": [
+              "backend",
+              "enum",
+              "enumeration",
+              "front-end",
+              "internationalization",
+              "reactjs",
+              "vuejs"
+            ]
+          },
+          "first_seen": "2026-09-17T18:14:05.484Z"
         },
         {
           "node_type": "item",
@@ -1683,6 +1885,78 @@
         },
         {
           "node_type": "item",
+          "title": "japan-ux-copy",
+          "description": "local-first CLI and GitHub Action for Japanese locale checks",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Audit Japanese UI copy for clarity, consistency, and fidelity to its English source.",
+            "homepage": null,
+            "id": 1339096550,
+            "language": "JavaScript",
+            "license": "MIT",
+            "last_commit": "2026-08-20T11:51:17Z",
+            "open_issues": 0,
+            "owner": "create-aquarius",
+            "repo": "japan-ux-copy",
+            "stars": 0,
+            "topics": [
+              "cli",
+              "github-actions",
+              "i18n",
+              "japanese",
+              "japanese-language",
+              "l10n",
+              "localization",
+              "ux-writing"
+            ]
+          },
+          "first_seen": "2026-09-17T18:14:05.484Z"
+        },
+        {
+          "node_type": "item",
+          "title": "Shipi18n",
+          "description": "ci linter for locale files: key/placeholder/plural checks + optional llm mistranslation pass; json, po, xliff, arb, xcstrings",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Catch broken translations before you ship: dropped placeholders, missing keys, collapsed plurals — and, with your own LLM key, the mistranslations structure checks cannot see. CLI, MCP server, GitHub Action. Apache-2.0, no account, no server.",
+            "homepage": "https://shipi18n.com",
+            "id": 1330315965,
+            "language": "JavaScript",
+            "license": "Apache-2.0",
+            "last_commit": "2026-09-17T09:42:35Z",
+            "open_issues": 1,
+            "owner": "Shipi18n",
+            "repo": "shipi18n",
+            "stars": 0,
+            "topics": [
+              "anthropic",
+              "ci",
+              "cli",
+              "code-quality",
+              "developer-tools",
+              "github-action",
+              "i18n",
+              "i18next",
+              "internationalization",
+              "linter",
+              "llm",
+              "localization",
+              "mcp",
+              "model-context-protocol",
+              "openai",
+              "qa",
+              "static-analysis",
+              "testing",
+              "translation",
+              "vite-plugin"
+            ]
+          },
+          "first_seen": "2026-09-17T18:14:05.484Z"
+        },
+        {
+          "node_type": "item",
           "title": "i18n-inline-editor",
           "description": "inline translation editor for Vite",
           "children": [],
@@ -1807,7 +2081,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-16T18:11:48.375Z",
+    "last_updated": "2026-09-17T18:14:05.484Z",
     "original_repository_info": {
       "archived": false,
       "description": "🌍 A curated list of i18n resources for all kind of languages and frameworks",
@@ -1815,8 +2089,8 @@
       "id": 338562865,
       "language": null,
       "license": null,
-      "last_commit": "2026-07-24T14:37:46Z",
-      "open_issues": 11,
+      "last_commit": "2026-09-17T12:19:11Z",
+      "open_issues": 0,
       "owner": "oh-jon-paul",
       "repo": "awesome-i18n",
       "stars": 409,
@@ -1833,7 +2107,7 @@
         "xl8"
       ]
     },
-    "original_repository_sha": "64d9205e3e439143ac1427114a5a9ba979ea3c63",
+    "original_repository_sha": "ba8e9b97e9e2ad3574e3d32e867c089345308667",
     "enhanced_repository": "enhansome/enhansome-i18n",
     "enhanced_repository_description": null,
     "title": "awesome-i18n with stars"
