@@ -17,11 +17,11 @@
                 "id": 79252808,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-09-17T13:45:57Z",
-                "open_issues": 66,
+                "last_commit": "2026-09-18T13:28:12Z",
+                "open_issues": 67,
                 "owner": "lingui",
                 "repo": "js-lingui",
-                "stars": 5879,
+                "stars": 5882,
                 "topics": [
                   "i18n",
                   "internationalization",
@@ -148,7 +148,7 @@
                 "open_issues": 17,
                 "owner": "messageformat",
                 "repo": "messageformat",
-                "stars": 1769,
+                "stars": 1770,
                 "topics": [
                   "language",
                   "messageformat"
@@ -505,7 +505,7 @@
                 "open_issues": 48,
                 "owner": "amannn",
                 "repo": "next-intl",
-                "stars": 4366,
+                "stars": 4368,
                 "topics": [
                   "date-formatting",
                   "i18n",
@@ -531,7 +531,7 @@
                 "open_issues": 129,
                 "owner": "aralroca",
                 "repo": "next-translate",
-                "stars": 2734,
+                "stars": 2735,
                 "topics": [
                   "globalization",
                   "hacktoberfest",
@@ -591,11 +591,11 @@
                 "id": 891166919,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-09-17T00:37:13Z",
-                "open_issues": 125,
+                "last_commit": "2026-09-18T01:30:45Z",
+                "open_issues": 130,
                 "owner": "generaltranslation",
                 "repo": "gt",
-                "stars": 1059,
+                "stars": 1060,
                 "topics": [
                   "i18n",
                   "internationalization",
@@ -757,8 +757,8 @@
                 "id": 53423192,
                 "language": "JavaScript",
                 "license": "MIT",
-                "last_commit": "2026-09-14T06:12:22Z",
-                "open_issues": 7,
+                "last_commit": "2026-09-18T08:38:32Z",
+                "open_issues": 6,
                 "owner": "sealninja",
                 "repo": "react-i18nify",
                 "stars": 154,
@@ -914,7 +914,7 @@
                     "id": 231953283,
                     "language": "TypeScript",
                     "license": "MIT",
-                    "last_commit": "2026-09-17T17:36:49Z",
+                    "last_commit": "2026-09-17T23:10:53Z",
                     "open_issues": 89,
                     "owner": "intlify",
                     "repo": "vue-i18n",
@@ -943,7 +943,7 @@
                     "id": 201458091,
                     "language": "TypeScript",
                     "license": "MIT",
-                    "last_commit": "2026-09-16T14:24:43Z",
+                    "last_commit": "2026-09-18T13:22:45Z",
                     "open_issues": 160,
                     "owner": "jsverse",
                     "repo": "transloco",
@@ -1128,7 +1128,7 @@
                 "id": 338562865,
                 "language": null,
                 "license": null,
-                "last_commit": "2026-09-17T12:19:11Z",
+                "last_commit": "2026-09-18T07:41:31Z",
                 "open_issues": 0,
                 "owner": "oh-jon-paul",
                 "repo": "awesome-i18n",
@@ -1167,7 +1167,7 @@
                 "id": 338562865,
                 "language": null,
                 "license": null,
-                "last_commit": "2026-09-17T12:19:11Z",
+                "last_commit": "2026-09-18T07:41:31Z",
                 "open_issues": 0,
                 "owner": "oh-jon-paul",
                 "repo": "awesome-i18n",
@@ -1381,7 +1381,7 @@
             "open_issues": 120,
             "owner": "google",
             "repo": "libphonenumber",
-            "stars": 18275,
+            "stars": 18276,
             "topics": []
           },
           "first_seen": "2026-08-28T23:33:14.090Z"
@@ -1473,7 +1473,7 @@
             "open_issues": 129,
             "owner": "CopyTranslator",
             "repo": "CopyTranslator",
-            "stars": 18075,
+            "stars": 18077,
             "topics": [
               "copytranslator",
               "dictionary",
@@ -1498,7 +1498,7 @@
             "open_issues": 126,
             "owner": "LibreTranslate",
             "repo": "LibreTranslate",
-            "stars": 16688,
+            "stars": 16660,
             "topics": [
               "api",
               "machine",
@@ -1522,10 +1522,10 @@
             "language": "Java",
             "license": "Apache-2.0",
             "last_commit": "2026-08-26T21:56:17Z",
-            "open_issues": 29,
+            "open_issues": 30,
             "owner": "niedev",
             "repo": "RTranslator",
-            "stars": 10410,
+            "stars": 10412,
             "topics": [
               "android",
               "android-app",
@@ -2081,7 +2081,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-17T18:14:05.484Z",
+    "last_updated": "2026-09-18T17:40:56.357Z",
     "original_repository_info": {
       "archived": false,
       "description": "🌍 A curated list of i18n resources for all kind of languages and frameworks",
@@ -2089,7 +2089,7 @@
       "id": 338562865,
       "language": null,
       "license": null,
-      "last_commit": "2026-09-17T12:19:11Z",
+      "last_commit": "2026-09-18T07:41:31Z",
       "open_issues": 0,
       "owner": "oh-jon-paul",
       "repo": "awesome-i18n",
@@ -2107,7 +2107,7 @@
         "xl8"
       ]
     },
-    "original_repository_sha": "ba8e9b97e9e2ad3574e3d32e867c089345308667",
+    "original_repository_sha": "e12425b1e79b9c19a1e3eb1b03e64e1309092afa",
     "enhanced_repository": "enhansome/enhansome-i18n",
     "enhanced_repository_description": null,
     "title": "awesome-i18n with stars"
