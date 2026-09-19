@@ -18,10 +18,10 @@
                 "language": "TypeScript",
                 "license": "MIT",
                 "last_commit": "2026-09-18T13:28:12Z",
-                "open_issues": 67,
+                "open_issues": 69,
                 "owner": "lingui",
                 "repo": "js-lingui",
-                "stars": 5882,
+                "stars": 5883,
                 "topics": [
                   "i18n",
                   "internationalization",
@@ -113,7 +113,7 @@
                 "open_issues": 42,
                 "owner": "codingcommons",
                 "repo": "typesafe-i18n",
-                "stars": 2475,
+                "stars": 2476,
                 "topics": [
                   "angular",
                   "angular2",
@@ -330,8 +330,8 @@
                 "id": 1306092336,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-09-14T18:24:11Z",
-                "open_issues": 4,
+                "last_commit": "2026-09-19T15:11:48Z",
+                "open_issues": 5,
                 "owner": "CodeinScrubs",
                 "repo": "BidiLens",
                 "stars": 11,
@@ -502,10 +502,10 @@
                 "language": "TypeScript",
                 "license": "MIT",
                 "last_commit": "2026-09-14T09:29:44Z",
-                "open_issues": 48,
+                "open_issues": 49,
                 "owner": "amannn",
                 "repo": "next-intl",
-                "stars": 4368,
+                "stars": 4371,
                 "topics": [
                   "date-formatting",
                   "i18n",
@@ -591,11 +591,11 @@
                 "id": 891166919,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-09-18T01:30:45Z",
-                "open_issues": 130,
+                "last_commit": "2026-09-19T05:07:54Z",
+                "open_issues": 133,
                 "owner": "generaltranslation",
                 "repo": "gt",
-                "stars": 1060,
+                "stars": 1062,
                 "topics": [
                   "i18n",
                   "internationalization",
@@ -890,7 +890,7 @@
                     "open_issues": 97,
                     "owner": "ngx-translate",
                     "repo": "core",
-                    "stars": 4662,
+                    "stars": 4661,
                     "topics": [
                       "angular",
                       "i18n",
@@ -914,7 +914,7 @@
                     "id": 231953283,
                     "language": "TypeScript",
                     "license": "MIT",
-                    "last_commit": "2026-09-17T23:10:53Z",
+                    "last_commit": "2026-09-19T01:00:42Z",
                     "open_issues": 89,
                     "owner": "intlify",
                     "repo": "vue-i18n",
@@ -943,7 +943,7 @@
                     "id": 201458091,
                     "language": "TypeScript",
                     "license": "MIT",
-                    "last_commit": "2026-09-18T13:22:45Z",
+                    "last_commit": "2026-09-19T14:54:48Z",
                     "open_issues": 160,
                     "owner": "jsverse",
                     "repo": "transloco",
@@ -1328,7 +1328,7 @@
                 "open_issues": 77,
                 "owner": "kurtsson",
                 "repo": "jekyll-multiple-languages-plugin",
-                "stars": 931,
+                "stars": 932,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:33:14.090Z"
@@ -1381,7 +1381,7 @@
             "open_issues": 120,
             "owner": "google",
             "repo": "libphonenumber",
-            "stars": 18276,
+            "stars": 18277,
             "topics": []
           },
           "first_seen": "2026-08-28T23:33:14.090Z"
@@ -1473,7 +1473,7 @@
             "open_issues": 129,
             "owner": "CopyTranslator",
             "repo": "CopyTranslator",
-            "stars": 18077,
+            "stars": 18080,
             "topics": [
               "copytranslator",
               "dictionary",
@@ -1498,7 +1498,7 @@
             "open_issues": 126,
             "owner": "LibreTranslate",
             "repo": "LibreTranslate",
-            "stars": 16660,
+            "stars": 16669,
             "topics": [
               "api",
               "machine",
@@ -1525,7 +1525,7 @@
             "open_issues": 30,
             "owner": "niedev",
             "repo": "RTranslator",
-            "stars": 10412,
+            "stars": 10429,
             "topics": [
               "android",
               "android-app",
@@ -1561,7 +1561,7 @@
             "open_issues": 161,
             "owner": "argosopentech",
             "repo": "argos-translate",
-            "stars": 6480,
+            "stars": 6483,
             "topics": [
               "language-models",
               "linux",
@@ -1925,7 +1925,7 @@
             "id": 1330315965,
             "language": "JavaScript",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-17T09:42:35Z",
+            "last_commit": "2026-09-18T20:26:56Z",
             "open_issues": 1,
             "owner": "Shipi18n",
             "repo": "shipi18n",
@@ -2081,7 +2081,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-18T17:40:56.357Z",
+    "last_updated": "2026-09-19T17:17:21.524Z",
     "original_repository_info": {
       "archived": false,
       "description": "🌍 A curated list of i18n resources for all kind of languages and frameworks",
