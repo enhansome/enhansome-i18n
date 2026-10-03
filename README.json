@@ -110,7 +110,7 @@
                 "language": "TypeScript",
                 "license": "MIT",
                 "last_commit": "2026-03-22T20:28:52Z",
-                "open_issues": 43,
+                "open_issues": 42,
                 "owner": "codingcommons",
                 "repo": "typesafe-i18n",
                 "stars": 2479,
@@ -148,7 +148,7 @@
                 "open_issues": 19,
                 "owner": "messageformat",
                 "repo": "messageformat",
-                "stars": 1770,
+                "stars": 1771,
                 "topics": [
                   "language",
                   "messageformat"
@@ -505,7 +505,7 @@
                 "open_issues": 49,
                 "owner": "amannn",
                 "repo": "next-intl",
-                "stars": 4375,
+                "stars": 4376,
                 "topics": [
                   "date-formatting",
                   "i18n",
@@ -591,8 +591,8 @@
                 "id": 891166919,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-10-02T19:06:33Z",
-                "open_issues": 16,
+                "last_commit": "2026-10-03T03:18:34Z",
+                "open_issues": 15,
                 "owner": "generaltranslation",
                 "repo": "gt",
                 "stars": 1065,
@@ -914,7 +914,7 @@
                     "id": 231953283,
                     "language": "TypeScript",
                     "license": "MIT",
-                    "last_commit": "2026-10-02T17:45:08Z",
+                    "last_commit": "2026-10-03T02:04:04Z",
                     "open_issues": 89,
                     "owner": "intlify",
                     "repo": "vue-i18n",
@@ -1113,84 +1113,6 @@
           "description": null,
           "node_type": "group",
           "title": "React framework"
-        },
-        {
-          "children": [
-            {
-              "node_type": "item",
-              "title": "Add your links here",
-              "description": null,
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "🌍 A curated list of i18n resources for all kind of languages and frameworks",
-                "homepage": null,
-                "id": 338562865,
-                "language": null,
-                "license": null,
-                "last_commit": "2026-09-18T07:41:31Z",
-                "open_issues": 3,
-                "owner": "oh-jon-paul",
-                "repo": "awesome-i18n",
-                "stars": 411,
-                "topics": [
-                  "ai-translate",
-                  "awesome",
-                  "awesome-list",
-                  "i18n",
-                  "internationalization",
-                  "l10n",
-                  "llm",
-                  "localization",
-                  "translation-management",
-                  "xl8"
-                ]
-              },
-              "first_seen": "2026-08-28T23:33:14.090Z"
-            }
-          ],
-          "description": null,
-          "node_type": "group",
-          "title": "PHP"
-        },
-        {
-          "children": [
-            {
-              "node_type": "item",
-              "title": "(image) Java time classes",
-              "description": "table with date-time classes",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "🌍 A curated list of i18n resources for all kind of languages and frameworks",
-                "homepage": null,
-                "id": 338562865,
-                "language": null,
-                "license": null,
-                "last_commit": "2026-09-18T07:41:31Z",
-                "open_issues": 3,
-                "owner": "oh-jon-paul",
-                "repo": "awesome-i18n",
-                "stars": 411,
-                "topics": [
-                  "ai-translate",
-                  "awesome",
-                  "awesome-list",
-                  "i18n",
-                  "internationalization",
-                  "l10n",
-                  "llm",
-                  "localization",
-                  "translation-management",
-                  "xl8"
-                ]
-              },
-              "first_seen": "2026-08-28T23:33:14.090Z"
-            }
-          ],
-          "description": null,
-          "node_type": "group",
-          "title": "Java"
         },
         {
           "children": [
@@ -1498,7 +1420,7 @@
             "open_issues": 127,
             "owner": "LibreTranslate",
             "repo": "LibreTranslate",
-            "stars": 16973,
+            "stars": 16977,
             "topics": [
               "api",
               "machine",
@@ -1525,7 +1447,7 @@
             "open_issues": 30,
             "owner": "niedev",
             "repo": "RTranslator",
-            "stars": 10475,
+            "stars": 10476,
             "topics": [
               "android",
               "android-app",
@@ -1561,7 +1483,7 @@
             "open_issues": 164,
             "owner": "argosopentech",
             "repo": "argos-translate",
-            "stars": 6522,
+            "stars": 6521,
             "topics": [
               "language-models",
               "linux",
@@ -1624,7 +1546,7 @@
             "open_issues": 105,
             "owner": "crow-translate",
             "repo": "crow-translate",
-            "stars": 1973,
+            "stars": 1972,
             "topics": [
               "bing",
               "dbus-api",
@@ -1925,7 +1847,7 @@
             "id": 1330315965,
             "language": "JavaScript",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-01T20:12:50Z",
+            "last_commit": "2026-10-02T22:27:08Z",
             "open_issues": 1,
             "owner": "Shipi18n",
             "repo": "shipi18n",
@@ -2017,7 +1939,7 @@
         {
           "node_type": "item",
           "title": "GitHub: FormatJS example project",
-          "description": null,
+          "description": "simplelocalize/simplelocalize-react-intl",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -2050,7 +1972,7 @@
         {
           "node_type": "item",
           "title": "GitHub: i18next example project",
-          "description": null,
+          "description": "simplelocalize/simplelocalize-i18next",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -2081,7 +2003,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-02T19:18:13.677Z",
+    "last_updated": "2026-10-03T04:48:50.232Z",
     "original_repository_info": {
       "archived": false,
       "description": "🌍 A curated list of i18n resources for all kind of languages and frameworks",
