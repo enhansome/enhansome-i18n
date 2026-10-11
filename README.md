@@ -24,7 +24,7 @@
 
 ### JavaScript / TypeScript
 
-* [js-lingui](https://github.com/lingui/js-lingui) ⭐ 5,908 | 🐛 56 | 🌐 TypeScript | 📅 2026-10-09 - readable, automated, and optimized internationalization
+* [js-lingui](https://github.com/lingui/js-lingui) ⭐ 5,911 | 🐛 57 | 🌐 TypeScript | 📅 2026-10-09 - readable, automated, and optimized internationalization
 
 * [jquery/globalize](https://github.com/jquery/globalize) ⭐ 4,834 | 🐛 150 | 🌐 JavaScript | 📅 2025-09-29 - library for i18n that leverages the official Unicode CLDR JSON data
 
@@ -86,7 +86,7 @@
 
 ### React framework
 
-* [next-intl](https://github.com/amannn/next-intl) ⭐ 4,375 | 🐛 53 | 🌐 TypeScript | 📅 2026-10-02 - minimal solution for internationalization in Next.js
+* [next-intl](https://github.com/amannn/next-intl) ⭐ 4,376 | 🐛 54 | 🌐 TypeScript | 📅 2026-10-02 - minimal solution for internationalization in Next.js
 * [next-translate](https://github.com/vinissimus/next-translate) ⭐ 2,735 | 🐛 129 | 🌐 JavaScript | 📅 2026-06-29 - easy i18n for NextJS, \~1kb of size
 * [react-native-localize](https://github.com/zoontek/react-native-localize) ⭐ 2,440 | 🐛 5 | 🌐 TypeScript | 📅 2026-09-15 - toolbox for your React Native app localization
 * [general translation](https://github.com/generaltranslation/gt) ⭐ 1,067 | 🐛 32 | 🌐 TypeScript | 📅 2026-10-10 - component translation for Next.js with SSR/SSG
@@ -108,8 +108,8 @@
 #### Other JS/TS frameworks
 
 * (Angular) [ngx-translate](https://github.com/ngx-translate/core) ⭐ 4,660 | 🐛 57 | 🌐 TypeScript | 📅 2026-09-26 - i18n for Angular
-* (VueJS) [vue-i18n](https://github.com/intlify/vue-i18n) ⭐ 2,713 | 🐛 88 | 🌐 TypeScript | 📅 2026-10-10 - i18n for VueJS
-* (Angular) [transloco](https://github.com/jsverse/transloco) ⭐ 2,284 | 🐛 168 | 🌐 TypeScript | 📅 2026-10-10 - i18n for Angular
+* (VueJS) [vue-i18n](https://github.com/intlify/vue-i18n) ⭐ 2,713 | 🐛 88 | 🌐 TypeScript | 📅 2026-10-11 - i18n for VueJS
+* (Angular) [transloco](https://github.com/jsverse/transloco) ⭐ 2,284 | 🐛 170 | 🌐 TypeScript | 📅 2026-10-10 - i18n for Angular
 * (Svelte) [svelte-i18n](https://github.com/kaisermann/svelte-i18n) ⭐ 1,379 | 🐛 74 | 🌐 TypeScript | 📅 2024-10-21 - i18n for Svelte
 * (Nuxt) [nuxt-i18n-micro](https://github.com/s00d/nuxt-i18n-micro) ⭐ 251 | 🐛 0 | 🌐 TypeScript | 📅 2026-09-28 - strategy-based i18n; @i18n-micro packages for vue/react/preact/solid/astro/node
 * (Angular) [ng-extract-i18n-merge](https://github.com/daniel-sc/ng-extract-i18n-merge) ⭐ 222 | 🐛 7 | 🌐 TypeScript | 📅 2026-10-08 - manage translation files for native Angular CLI i18n
@@ -152,7 +152,7 @@
 
 ## 📅 Utilities
 
-* (JS) [googlei18n/libphonenumber](https://github.com/googlei18n/libphonenumber) ⭐ 18,308 | 🐛 122 | 🌐 C++ | 📅 2026-10-08 - parsing, formatting, and validating phone numbers (Java, C++, JavaScript)
+* (JS) [googlei18n/libphonenumber](https://github.com/googlei18n/libphonenumber) ⭐ 18,309 | 🐛 122 | 🌐 C++ | 📅 2026-10-08 - parsing, formatting, and validating phone numbers (Java, C++, JavaScript)
 * (JS) [ux-ui-audit](https://github.com/uxbyissa/ux-ui-audit) ⭐ 2 | 🐛 4 | 🌐 JavaScript | 📅 2026-09-01 - browser probes that audit arabic plural agreement, numeral mixing and bidi hazards
 * (JS) [anywhen](https://github.com/kirilinsky/anywhen) ⚠️ Archived - relative and absolute fuzzy date formatting for any language, zero deps, native Intl
 * (JS) [Luxon](https://moment.github.io/luxon/) - powerful, modern, and friendly wrapper for JavaScript dates and times (replaces momentjs)
@@ -162,10 +162,10 @@
 
 ## Apps and extensions for translation management
 
-* [Copy Translator](https://github.com/CopyTranslator/CopyTranslator) ⭐ 18,107 | 🐛 129 | 🌐 TypeScript | 📅 2026-02-23 - cross-platform app that automatically translate texts when copied
-* [LibreTranslate](https://github.com/uav4geo/LibreTranslate) ⭐ 17,022 | 🐛 127 | 🌐 Python | 📅 2026-09-28 - self-hosted web application to translate texts
-* [RTranslator](https://github.com/niedev/RTranslator) ⭐ 10,497 | 🐛 31 | 🌐 Java | 📅 2026-10-09 - simultaneous translator app for Android based on Google's API
-* [Argos Translate](https://github.com/argosopentech/argos-translate) ⭐ 6,547 | 🐛 165 | 🌐 Python | 📅 2026-08-08 - open source offline translation app based on OpenNMT
+* [Copy Translator](https://github.com/CopyTranslator/CopyTranslator) ⭐ 18,111 | 🐛 129 | 🌐 TypeScript | 📅 2026-02-23 - cross-platform app that automatically translate texts when copied
+* [LibreTranslate](https://github.com/uav4geo/LibreTranslate) ⭐ 17,041 | 🐛 127 | 🌐 Python | 📅 2026-09-28 - self-hosted web application to translate texts
+* [RTranslator](https://github.com/niedev/RTranslator) ⭐ 10,499 | 🐛 32 | 🌐 Java | 📅 2026-10-09 - simultaneous translator app for Android based on Google's API
+* [Argos Translate](https://github.com/argosopentech/argos-translate) ⭐ 6,551 | 🐛 165 | 🌐 Python | 📅 2026-08-08 - open source offline translation app based on OpenNMT
 * [i18n-ally](https://github.com/antfu/i18n-ally) ⭐ 4,893 | 🐛 474 | 🌐 TypeScript | 📅 2024-12-13 - VS Code extension for i18n
 * [Crow Translate](https://github.com/crow-translate/crow-translate) ⚠️ Archived - lightweight desktop translator
 * [enum-plus](https://github.com/shijistar/enum-plus) ⭐ 208 | 🐛 3 | 🌐 TypeScript | 📅 2026-10-09 - localized labels, badges and dropdown options straight from your enums, with React/Vue/Next plugins
@@ -263,4 +263,4 @@
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-10._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-11._
