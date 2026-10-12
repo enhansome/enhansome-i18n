@@ -24,15 +24,15 @@
 
 ### JavaScript / TypeScript
 
-* [js-lingui](https://github.com/lingui/js-lingui) ⭐ 5,911 | 🐛 57 | 🌐 TypeScript | 📅 2026-10-09 - readable, automated, and optimized internationalization
+* [js-lingui](https://github.com/lingui/js-lingui) ⭐ 5,911 | 🐛 56 | 🌐 TypeScript | 📅 2026-10-12 - readable, automated, and optimized internationalization
 
-* [jquery/globalize](https://github.com/jquery/globalize) ⭐ 4,834 | 🐛 150 | 🌐 JavaScript | 📅 2025-09-29 - library for i18n that leverages the official Unicode CLDR JSON data
+* [jquery/globalize](https://github.com/jquery/globalize) ⭐ 4,833 | 🐛 150 | 🌐 JavaScript | 📅 2025-09-29 - library for i18n that leverages the official Unicode CLDR JSON data
 
 * (archived) [facebook/fbt](https://github.com/facebook/fbt) ⚠️ Archived - i18n framework for JS/TS designed to be powerful, flexible, simple and intuitive
 
 * [typesafe-i18n](https://github.com/ivanhofer/typesafe-i18n) ⭐ 2,479 | 🐛 42 | 🌐 TypeScript | 📅 2026-03-22 - type-safe, lightweight localization library for TypeScript with no external dependencies
 
-* [messageformat](https://github.com/messageformat/messageformat) ⭐ 1,772 | 🐛 18 | 🌐 TypeScript | 📅 2026-10-10 - ICU MessageFormat for JavaScript, plural and gender capable messages
+* [messageformat](https://github.com/messageformat/messageformat) ⭐ 1,772 | 🐛 18 | 🌐 TypeScript | 📅 2026-10-12 - ICU MessageFormat for JavaScript, plural and gender capable messages
 
 * (archived) [Intl.js](https://github.com/andyearnshaw/Intl.js) ⚠️ Archived - implementation of the ECMAScript Internationalization API
 
@@ -86,16 +86,16 @@
 
 ### React framework
 
-* [next-intl](https://github.com/amannn/next-intl) ⭐ 4,376 | 🐛 54 | 🌐 TypeScript | 📅 2026-10-02 - minimal solution for internationalization in Next.js
+* [next-intl](https://github.com/amannn/next-intl) ⭐ 4,377 | 🐛 54 | 🌐 TypeScript | 📅 2026-10-02 - minimal solution for internationalization in Next.js
 * [next-translate](https://github.com/vinissimus/next-translate) ⭐ 2,735 | 🐛 129 | 🌐 JavaScript | 📅 2026-06-29 - easy i18n for NextJS, \~1kb of size
-* [react-native-localize](https://github.com/zoontek/react-native-localize) ⭐ 2,440 | 🐛 5 | 🌐 TypeScript | 📅 2026-09-15 - toolbox for your React Native app localization
-* [general translation](https://github.com/generaltranslation/gt) ⭐ 1,067 | 🐛 32 | 🌐 TypeScript | 📅 2026-10-10 - component translation for Next.js with SSR/SSG
+* [react-native-localize](https://github.com/zoontek/react-native-localize) ⭐ 2,441 | 🐛 6 | 🌐 TypeScript | 📅 2026-10-12 - toolbox for your React Native app localization
+* [general translation](https://github.com/generaltranslation/gt) ⭐ 1,068 | 🐛 42 | 🌐 TypeScript | 📅 2026-10-12 - component translation for Next.js with SSR/SSG
 * [react-localization](https://github.com/stefalda/react-localization) ⭐ 371 | 🐛 14 | 🌐 TypeScript | 📅 2026-10-04 - translate using the same syntax as used in ReactNativeLocalization
 * [react-localize-redux](https://github.com/ryandrewjohnson/react-localize-redux) ⭐ 369 | 🐛 43 | 🌐 JavaScript | 📅 2022-12-30 - localization library for handling translations
 * [react-translate-component](https://github.com/martinandert/react-translate-component) ⭐ 316 | 🐛 9 | 🌐 JavaScript | 📅 2018-02-28 - component that utilizes the Counterpart/Interpolate components
 * [talkr](https://github.com/DoneDeal0/Talkr) ⭐ 250 | 🐛 0 | 🌐 TypeScript | 📅 2024-09-29 - light i18n provider for React (< 1kb), Typescript, smart autocompletion, plural rules
 * [react-translated](https://github.com/amsul/react-translated) ⭐ 176 | 🐛 43 | 🌐 JavaScript | 📅 2022-12-07 - dead simple way to add complex translations
-* [react-i18nify](https://github.com/sealninja/react-i18nify) ⭐ 153 | 🐛 6 | 🌐 JavaScript | 📅 2026-10-07 - simple i18n translation and localization components and helpers for React
+* [react-i18nify](https://github.com/sealninja/react-i18nify) ⭐ 153 | 🐛 7 | 🌐 JavaScript | 📅 2026-10-12 - simple i18n translation and localization components and helpers for React
 * [react-translate](https://github.com/bloodyowl/react-translate) ⭐ 109 | 🐛 7 | 🌐 JavaScript | 📅 2022-12-08 - internationalization for React
 * [react-persian](https://github.com/evandhq/react-persian) ⭐ 82 | 🐛 7 | 🌐 JavaScript | 📅 2017-12-08 - set of react components for Persian localization
 * [react-littera](https://github.com/DRFR0ST/react-littera) ⭐ 19 | 🐛 6 | 🌐 TypeScript | 📅 2024-01-19 - lightweight library for i18n using hooks
@@ -107,12 +107,12 @@
 
 #### Other JS/TS frameworks
 
-* (Angular) [ngx-translate](https://github.com/ngx-translate/core) ⭐ 4,660 | 🐛 57 | 🌐 TypeScript | 📅 2026-09-26 - i18n for Angular
-* (VueJS) [vue-i18n](https://github.com/intlify/vue-i18n) ⭐ 2,713 | 🐛 88 | 🌐 TypeScript | 📅 2026-10-11 - i18n for VueJS
-* (Angular) [transloco](https://github.com/jsverse/transloco) ⭐ 2,284 | 🐛 170 | 🌐 TypeScript | 📅 2026-10-10 - i18n for Angular
-* (Svelte) [svelte-i18n](https://github.com/kaisermann/svelte-i18n) ⭐ 1,379 | 🐛 74 | 🌐 TypeScript | 📅 2024-10-21 - i18n for Svelte
+* (Angular) [ngx-translate](https://github.com/ngx-translate/core) ⭐ 4,661 | 🐛 57 | 🌐 TypeScript | 📅 2026-09-26 - i18n for Angular
+* (VueJS) [vue-i18n](https://github.com/intlify/vue-i18n) ⭐ 2,713 | 🐛 88 | 🌐 TypeScript | 📅 2026-10-12 - i18n for VueJS
+* (Angular) [transloco](https://github.com/jsverse/transloco) ⭐ 2,285 | 🐛 170 | 🌐 TypeScript | 📅 2026-10-10 - i18n for Angular
+* (Svelte) [svelte-i18n](https://github.com/kaisermann/svelte-i18n) ⭐ 1,380 | 🐛 74 | 🌐 TypeScript | 📅 2024-10-21 - i18n for Svelte
 * (Nuxt) [nuxt-i18n-micro](https://github.com/s00d/nuxt-i18n-micro) ⭐ 251 | 🐛 0 | 🌐 TypeScript | 📅 2026-09-28 - strategy-based i18n; @i18n-micro packages for vue/react/preact/solid/astro/node
-* (Angular) [ng-extract-i18n-merge](https://github.com/daniel-sc/ng-extract-i18n-merge) ⭐ 222 | 🐛 7 | 🌐 TypeScript | 📅 2026-10-08 - manage translation files for native Angular CLI i18n
+* (Angular) [ng-extract-i18n-merge](https://github.com/daniel-sc/ng-extract-i18n-merge) ⭐ 222 | 🐛 6 | 🌐 TypeScript | 📅 2026-10-12 - manage translation files for native Angular CLI i18n
 * (VueJS) [sweet-i18n](https://github.com/wood3n/sweet-i18n) ⭐ 30 | 🐛 1 | 🌐 TypeScript | 📅 2023-05-08 - automatic extraction and conversion of Chinese characters in Vue/JS files
 * (Angular) [ngx-runtime-i18n](https://github.com/AshwinSathian/ngx-runtime-i18n) ⭐ 3 | 🐛 18 | 🌐 TypeScript | 📅 2026-10-08 - signals-first, SSR-safe runtime i18n for Angular
 
@@ -162,10 +162,10 @@
 
 ## Apps and extensions for translation management
 
-* [Copy Translator](https://github.com/CopyTranslator/CopyTranslator) ⭐ 18,111 | 🐛 129 | 🌐 TypeScript | 📅 2026-02-23 - cross-platform app that automatically translate texts when copied
-* [LibreTranslate](https://github.com/uav4geo/LibreTranslate) ⭐ 17,041 | 🐛 127 | 🌐 Python | 📅 2026-09-28 - self-hosted web application to translate texts
-* [RTranslator](https://github.com/niedev/RTranslator) ⭐ 10,499 | 🐛 32 | 🌐 Java | 📅 2026-10-09 - simultaneous translator app for Android based on Google's API
-* [Argos Translate](https://github.com/argosopentech/argos-translate) ⭐ 6,551 | 🐛 165 | 🌐 Python | 📅 2026-08-08 - open source offline translation app based on OpenNMT
+* [Copy Translator](https://github.com/CopyTranslator/CopyTranslator) ⭐ 18,112 | 🐛 129 | 🌐 TypeScript | 📅 2026-02-23 - cross-platform app that automatically translate texts when copied
+* [LibreTranslate](https://github.com/uav4geo/LibreTranslate) ⭐ 17,060 | 🐛 129 | 🌐 Python | 📅 2026-10-12 - self-hosted web application to translate texts
+* [RTranslator](https://github.com/niedev/RTranslator) ⭐ 10,504 | 🐛 29 | 🌐 Java | 📅 2026-10-12 - simultaneous translator app for Android based on Google's API
+* [Argos Translate](https://github.com/argosopentech/argos-translate) ⭐ 6,557 | 🐛 165 | 🌐 Python | 📅 2026-08-08 - open source offline translation app based on OpenNMT
 * [i18n-ally](https://github.com/antfu/i18n-ally) ⭐ 4,893 | 🐛 474 | 🌐 TypeScript | 📅 2024-12-13 - VS Code extension for i18n
 * [Crow Translate](https://github.com/crow-translate/crow-translate) ⚠️ Archived - lightweight desktop translator
 * [enum-plus](https://github.com/shijistar/enum-plus) ⭐ 208 | 🐛 3 | 🌐 TypeScript | 📅 2026-10-09 - localized labels, badges and dropdown options straight from your enums, with React/Vue/Next plugins
@@ -263,4 +263,4 @@
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-11._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-12._
