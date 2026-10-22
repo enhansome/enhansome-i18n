@@ -17,8 +17,8 @@
                 "id": 79252808,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-10-21T13:08:12Z",
-                "open_issues": 56,
+                "last_commit": "2026-10-22T13:59:47Z",
+                "open_issues": 57,
                 "owner": "lingui",
                 "repo": "js-lingui",
                 "stars": 5923,
@@ -148,7 +148,7 @@
                 "open_issues": 17,
                 "owner": "messageformat",
                 "repo": "messageformat",
-                "stars": 1773,
+                "stars": 1772,
                 "topics": [
                   "language",
                   "messageformat"
@@ -258,6 +258,38 @@
                 ]
               },
               "first_seen": "2026-08-28T23:33:14.090Z"
+            },
+            {
+              "node_type": "item",
+              "title": "@i18n-micro/runtime",
+              "description": "framework-agnostic createI18n for browser and workers, no fs",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "Nuxt I18n Micro is a fast, simple, and lightweight internationalization (i18n) module for Nuxt",
+                "homepage": "https://s00d.github.io/nuxt-i18n-micro/",
+                "id": 842990422,
+                "language": "TypeScript",
+                "license": "MIT",
+                "last_commit": "2026-10-15T06:56:31Z",
+                "open_issues": 1,
+                "owner": "s00d",
+                "repo": "nuxt-i18n-micro",
+                "stars": 251,
+                "topics": [
+                  "i18n",
+                  "internationalization",
+                  "localization",
+                  "multi-language",
+                  "nuxt",
+                  "nuxt-module",
+                  "nuxt3",
+                  "performance",
+                  "seo",
+                  "translation"
+                ]
+              },
+              "first_seen": "2026-09-17T18:14:05.484Z"
             },
             {
               "node_type": "item",
@@ -442,6 +474,48 @@
             },
             {
               "node_type": "item",
+              "title": "comvi",
+              "description": "type-checked keys, plurals, html tags in translations",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "i18n for React, Vue, Svelte, Solid, Next.js and Nuxt with typed keys. One MIT core, ICU plurals, rich text without innerHTML, translations from a CDN so text changes don't need a deploy.",
+                "homepage": "https://comvi.io/i18n",
+                "id": 1228270648,
+                "language": "TypeScript",
+                "license": "MIT",
+                "last_commit": "2026-10-22T16:18:47Z",
+                "open_issues": 1,
+                "owner": "comvi-io",
+                "repo": "comvi-js",
+                "stars": 2,
+                "topics": [
+                  "cdn",
+                  "comvi",
+                  "i18n",
+                  "icu",
+                  "internationalization",
+                  "javascript",
+                  "l10n",
+                  "localization",
+                  "nextjs",
+                  "nuxt",
+                  "nuxt4",
+                  "react",
+                  "solidjs",
+                  "svelte",
+                  "svelte5",
+                  "tms",
+                  "translation",
+                  "translations",
+                  "typescript",
+                  "vue"
+                ]
+              },
+              "first_seen": "2026-10-22T18:32:54.149Z"
+            },
+            {
+              "node_type": "item",
               "title": "locale-lint",
               "description": "detect missing keys, unused translations, hardcoded strings, interpolation mismatches",
               "children": [],
@@ -502,7 +576,7 @@
                 "language": "TypeScript",
                 "license": "MIT",
                 "last_commit": "2026-10-02T11:00:52Z",
-                "open_issues": 54,
+                "open_issues": 55,
                 "owner": "amannn",
                 "repo": "next-intl",
                 "stars": 4384,
@@ -591,8 +665,8 @@
                 "id": 891166919,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-10-21T18:13:20Z",
-                "open_issues": 54,
+                "last_commit": "2026-10-22T18:14:52Z",
+                "open_issues": 60,
                 "owner": "generaltranslation",
                 "repo": "gt",
                 "stars": 1069,
@@ -818,6 +892,37 @@
             },
             {
               "node_type": "item",
+              "title": "babelize elements",
+              "description": "copy-paste React + Tailwind components for language switchers and locale pickers",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "Open-source Localization UI components — copy-paste React & Tailwind for language switchers, locale pickers, translation widgets, and more.",
+                "homepage": "https://elements.babelize.co",
+                "id": 1322807983,
+                "language": "TypeScript",
+                "license": "MIT",
+                "last_commit": "2026-10-21T09:21:26Z",
+                "open_issues": 12,
+                "owner": "babelize",
+                "repo": "babelize-elements",
+                "stars": 43,
+                "topics": [
+                  "components",
+                  "i18n",
+                  "internationalization",
+                  "l10n",
+                  "localization",
+                  "nextjs",
+                  "open-source",
+                  "react",
+                  "tailwindcss"
+                ]
+              },
+              "first_seen": "2026-10-22T18:32:54.149Z"
+            },
+            {
+              "node_type": "item",
               "title": "react-littera",
               "description": "lightweight library for i18n using hooks",
               "children": [],
@@ -886,8 +991,8 @@
                     "id": 44045057,
                     "language": "TypeScript",
                     "license": "MIT",
-                    "last_commit": "2026-10-21T16:47:19Z",
-                    "open_issues": 38,
+                    "last_commit": "2026-10-22T13:32:48Z",
+                    "open_issues": 29,
                     "owner": "ngx-translate",
                     "repo": "core",
                     "stars": 4659,
@@ -914,8 +1019,8 @@
                     "id": 231953283,
                     "language": "TypeScript",
                     "license": "MIT",
-                    "last_commit": "2026-10-21T14:22:24Z",
-                    "open_issues": 80,
+                    "last_commit": "2026-10-22T13:02:57Z",
+                    "open_issues": 81,
                     "owner": "intlify",
                     "repo": "vue-i18n",
                     "stars": 2713,
@@ -1226,6 +1331,35 @@
                 ]
               },
               "first_seen": "2026-08-28T23:33:14.090Z"
+            },
+            {
+              "node_type": "item",
+              "title": "Languages",
+              "description": "ISO-639 codes, endonyms, scripts and official languages per country for 7,900+ languages",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "7,900 languages, 247 countries, one Python object graph - ISO 639-3, Glottolog, CLDR, LinguaMeta & Wikidata merged in one Python API.",
+                "homepage": null,
+                "id": 1248361005,
+                "language": "Python",
+                "license": "MIT",
+                "last_commit": "2026-10-06T09:20:23Z",
+                "open_issues": 0,
+                "owner": "jnehring",
+                "repo": "languages-of-the-world",
+                "stars": 5,
+                "topics": [
+                  "dataset",
+                  "glottolog",
+                  "iso-639",
+                  "linguistics",
+                  "low-resource-languages",
+                  "multilingual",
+                  "nlp"
+                ]
+              },
+              "first_seen": "2026-10-22T18:32:54.149Z"
             }
           ],
           "description": null,
@@ -1299,14 +1433,52 @@
             "id": 27500243,
             "language": "C++",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-08T03:43:09Z",
+            "last_commit": "2026-10-22T15:23:24Z",
             "open_issues": 124,
             "owner": "google",
             "repo": "libphonenumber",
-            "stars": 18325,
+            "stars": 18327,
             "topics": []
           },
           "first_seen": "2026-08-28T23:33:14.090Z"
+        },
+        {
+          "node_type": "item",
+          "title": "(Go) go-propisyu",
+          "description": "russian number-to-words and currency formatting with grammatical declension",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Go library: convert numbers to Russian words with correct grammar. Числа прописью на Go с правильными склонениями.",
+            "homepage": "https://rekurt.github.io/go-propisyu/",
+            "id": 1091140963,
+            "language": "Go",
+            "license": "MIT",
+            "last_commit": "2026-10-12T08:56:17Z",
+            "open_issues": 3,
+            "owner": "rekurt",
+            "repo": "go-propisyu",
+            "stars": 5,
+            "topics": [
+              "declension",
+              "fintech",
+              "go",
+              "golang",
+              "i18n",
+              "invoices",
+              "localization",
+              "nlp",
+              "number-to-words",
+              "numbers",
+              "numerals",
+              "propisyu",
+              "russian",
+              "russian-language",
+              "text-processing",
+              "words"
+            ]
+          },
+          "first_seen": "2026-10-22T18:32:54.149Z"
         },
         {
           "node_type": "item",
@@ -1348,6 +1520,57 @@
         },
         {
           "node_type": "item",
+          "title": "(JS) zhtw-guard",
+          "description": "flags simplified characters, mainland terms and mojibake in traditional chinese (taiwan) text",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Keep Traditional Chinese (Taiwan) text consistent in code, docs and AI output · 繁體中文（台灣）用語與編碼檢查工具",
+            "homepage": null,
+            "id": 1424792112,
+            "language": "TypeScript",
+            "license": "MIT",
+            "last_commit": "2026-10-19T10:53:38Z",
+            "open_issues": 7,
+            "owner": "zzoraemon043",
+            "repo": "zhtw-guard",
+            "stars": 1,
+            "topics": [
+              "cli",
+              "developer-tools",
+              "github-actions",
+              "i18n",
+              "linter",
+              "traditional-chinese",
+              "typescript",
+              "zh-tw"
+            ]
+          },
+          "first_seen": "2026-10-22T18:32:54.149Z"
+        },
+        {
+          "node_type": "item",
+          "title": "(Rust) chislo",
+          "description": "russian number-to-words with gender, currency and date formatting",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": null,
+            "homepage": null,
+            "id": 1204691176,
+            "language": "Rust",
+            "license": "MIT",
+            "last_commit": "2026-09-06T12:32:36Z",
+            "open_issues": 0,
+            "owner": "rekurt",
+            "repo": "chislo",
+            "stars": 1,
+            "topics": []
+          },
+          "first_seen": "2026-10-22T18:32:54.149Z"
+        },
+        {
+          "node_type": "item",
           "title": "(JS) anywhen",
           "description": "relative and absolute fuzzy date formatting for any language, zero deps, native Intl",
           "children": [],
@@ -1372,6 +1595,64 @@
             ]
           },
           "first_seen": "2026-08-28T23:33:14.090Z"
+        },
+        {
+          "node_type": "item",
+          "title": "(JS) arabic-core",
+          "description": "grammatical arabic number-to-words, currency amounts in words, hijri dates, zero deps",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Arabic tafgeet (number-to-words), currency in words, tashkeel removal and Umm al-Qura Hijri dates. TypeScript, no dependencies.",
+            "homepage": "https://getkirnu.com",
+            "id": 1409189281,
+            "language": "TypeScript",
+            "license": "MIT",
+            "last_commit": "2026-10-08T15:46:54Z",
+            "open_issues": 0,
+            "owner": "getkirnu",
+            "repo": "arabic-core",
+            "stars": 0,
+            "topics": [
+              "arabic",
+              "arabic-nlp",
+              "hijri",
+              "number-to-words",
+              "tafgeet",
+              "tashkeel",
+              "typescript",
+              "umm-al-qura"
+            ]
+          },
+          "first_seen": "2026-10-22T18:32:54.149Z"
+        },
+        {
+          "node_type": "item",
+          "title": "(JS) Hreflang Cluster Auditor",
+          "description": "verifies hreflang links",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Check locale alternates for complete reciprocal clusters and fallback gaps.",
+            "homepage": null,
+            "id": 1363711962,
+            "language": "JavaScript",
+            "license": "MIT",
+            "last_commit": "2026-09-28T14:12:16Z",
+            "open_issues": 0,
+            "owner": "edilec",
+            "repo": "hreflang-cluster-auditor",
+            "stars": 0,
+            "topics": [
+              "cli",
+              "hreflang",
+              "international-seo",
+              "nodejs",
+              "seo",
+              "technical-seo"
+            ]
+          },
+          "first_seen": "2026-10-22T18:32:54.149Z"
         }
       ],
       "title": "📅 Utilities"
@@ -1395,7 +1676,7 @@
             "open_issues": 129,
             "owner": "CopyTranslator",
             "repo": "CopyTranslator",
-            "stars": 18122,
+            "stars": 18120,
             "topics": [
               "copytranslator",
               "dictionary",
@@ -1420,7 +1701,7 @@
             "open_issues": 129,
             "owner": "LibreTranslate",
             "repo": "LibreTranslate",
-            "stars": 17139,
+            "stars": 17149,
             "topics": [
               "api",
               "machine",
@@ -1443,11 +1724,11 @@
             "id": 251396732,
             "language": "Java",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-20T13:53:29Z",
+            "last_commit": "2026-10-22T16:02:33Z",
             "open_issues": 27,
             "owner": "niedev",
             "repo": "RTranslator",
-            "stars": 10530,
+            "stars": 10529,
             "topics": [
               "android",
               "android-app",
@@ -1480,10 +1761,10 @@
             "language": "Python",
             "license": "MIT",
             "last_commit": "2026-08-08T12:09:57Z",
-            "open_issues": 166,
+            "open_issues": 167,
             "owner": "argosopentech",
             "repo": "argos-translate",
-            "stars": 6585,
+            "stars": 6586,
             "topics": [
               "language-models",
               "linux",
@@ -1513,7 +1794,7 @@
             "open_issues": 473,
             "owner": "lokalise",
             "repo": "i18n-ally",
-            "stars": 4896,
+            "stars": 4895,
             "topics": [
               "angular",
               "i10n",
@@ -1546,7 +1827,7 @@
             "open_issues": 105,
             "owner": "crow-translate",
             "repo": "crow-translate",
-            "stars": 1966,
+            "stars": 1964,
             "topics": [
               "bing",
               "dbus-api",
@@ -1566,7 +1847,7 @@
         {
           "node_type": "item",
           "title": "enum-plus",
-          "description": "localized labels, badges and dropdown options straight from your enums, with React/Vue/Next plugins",
+          "description": "localized labels, badges and dropdowns straight from your enums React + Vue",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1575,11 +1856,11 @@
             "id": 546112882,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-10-20T15:16:51Z",
-            "open_issues": 1,
+            "last_commit": "2026-10-22T03:11:10Z",
+            "open_issues": 3,
             "owner": "shijistar",
             "repo": "enum-plus",
-            "stars": 207,
+            "stars": 206,
             "topics": [
               "backend",
               "enum",
@@ -1740,6 +2021,44 @@
         },
         {
           "node_type": "item",
+          "title": "Locale Guard",
+          "description": "github action that comments on PRs with missing keys or issues",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "GitHub Action that checks translation files on every pull request: missing keys, broken placeholders, plural forms and untranslated text for vue-i18n, Nuxt, next-intl, react-intl, i18next and Rails. Also on npm as locale-guard-cli for local checks and git hooks.",
+            "homepage": "https://www.npmjs.com/package/locale-guard-cli",
+            "id": 1412468881,
+            "language": "TypeScript",
+            "license": "MIT",
+            "last_commit": "2026-10-21T03:52:10Z",
+            "open_issues": 0,
+            "owner": "Mohamed-Almarag",
+            "repo": "locale-guard",
+            "stars": 6,
+            "topics": [
+              "cli",
+              "git-hooks",
+              "github-actions",
+              "husky",
+              "i18n",
+              "i18next",
+              "l10n",
+              "lefthook",
+              "localization",
+              "next-intl",
+              "nuxt",
+              "pre-commit",
+              "rails",
+              "react-intl",
+              "translations",
+              "vue-i18n"
+            ]
+          },
+          "first_seen": "2026-10-22T18:32:54.149Z"
+        },
+        {
+          "node_type": "item",
           "title": "Dire",
           "description": "cli that processes missing translations in JSON files using AI",
           "children": [],
@@ -1831,48 +2150,6 @@
               "l10n",
               "localization",
               "ux-writing"
-            ]
-          },
-          "first_seen": "2026-09-17T18:14:05.484Z"
-        },
-        {
-          "node_type": "item",
-          "title": "Shipi18n",
-          "description": "ci linter for locale files: key/placeholder/plural checks + optional llm mistranslation pass; json, po, xliff, arb, xcstrings",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "Catch broken translations before you ship: dropped placeholders, missing keys, collapsed plurals — and, with your own LLM key, the mistranslations structure checks cannot see. CLI, MCP server, GitHub Action. Apache-2.0, no account, no server.",
-            "homepage": "https://shipi18n.com",
-            "id": 1330315965,
-            "language": "JavaScript",
-            "license": "Apache-2.0",
-            "last_commit": "2026-10-17T10:35:23Z",
-            "open_issues": 5,
-            "owner": "Shipi18n",
-            "repo": "shipi18n",
-            "stars": 0,
-            "topics": [
-              "anthropic",
-              "ci",
-              "cli",
-              "code-quality",
-              "developer-tools",
-              "github-action",
-              "i18n",
-              "i18next",
-              "internationalization",
-              "linter",
-              "llm",
-              "localization",
-              "mcp",
-              "model-context-protocol",
-              "openai",
-              "qa",
-              "static-analysis",
-              "testing",
-              "translation",
-              "vite-plugin"
             ]
           },
           "first_seen": "2026-09-17T18:14:05.484Z"
@@ -2003,7 +2280,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-21T18:39:02.733Z",
+    "last_updated": "2026-10-22T18:32:54.149Z",
     "original_repository_info": {
       "archived": false,
       "description": "🌍 A curated list of i18n resources for all kind of languages and frameworks",
@@ -2011,8 +2288,8 @@
       "id": 338562865,
       "language": null,
       "license": null,
-      "last_commit": "2026-09-18T07:41:31Z",
-      "open_issues": 16,
+      "last_commit": "2026-10-21T19:55:11Z",
+      "open_issues": 1,
       "owner": "oh-jon-paul",
       "repo": "awesome-i18n",
       "stars": 412,
@@ -2029,7 +2306,7 @@
         "xl8"
       ]
     },
-    "original_repository_sha": "e12425b1e79b9c19a1e3eb1b03e64e1309092afa",
+    "original_repository_sha": "a4607701bc7d378f33cb571e66cd21150de5622e",
     "enhanced_repository": "enhansome/enhansome-i18n",
     "enhanced_repository_description": null,
     "title": "awesome-i18n with stars"
