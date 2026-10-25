@@ -21,7 +21,7 @@
                 "open_issues": 58,
                 "owner": "lingui",
                 "repo": "js-lingui",
-                "stars": 5923,
+                "stars": 5925,
                 "topics": [
                   "i18n",
                   "internationalization",
@@ -145,7 +145,7 @@
                 "language": "TypeScript",
                 "license": "MIT",
                 "last_commit": "2026-10-20T13:16:16Z",
-                "open_issues": 17,
+                "open_issues": 19,
                 "owner": "messageformat",
                 "repo": "messageformat",
                 "stars": 1772,
@@ -453,27 +453,6 @@
             },
             {
               "node_type": "item",
-              "title": "zero-intl",
-              "description": "dead simple library for modern apps",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "Modern and minimalistic i18n library for React, inspired by FormatJS",
-                "homepage": null,
-                "id": 1021109396,
-                "language": "TypeScript",
-                "license": null,
-                "last_commit": "2026-04-14T17:11:45Z",
-                "open_issues": 0,
-                "owner": "zero-intl",
-                "repo": "zero-intl",
-                "stars": 2,
-                "topics": []
-              },
-              "first_seen": "2026-08-28T23:33:14.090Z"
-            },
-            {
-              "node_type": "item",
               "title": "comvi",
               "description": "type-checked keys, plurals, html tags in translations",
               "children": [],
@@ -484,11 +463,11 @@
                 "id": 1228270648,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-10-24T14:24:42Z",
-                "open_issues": 0,
+                "last_commit": "2026-10-25T17:26:52Z",
+                "open_issues": 1,
                 "owner": "comvi-io",
                 "repo": "comvi-js",
-                "stars": 2,
+                "stars": 3,
                 "topics": [
                   "cdn",
                   "comvi",
@@ -513,6 +492,27 @@
                 ]
               },
               "first_seen": "2026-10-22T18:32:54.149Z"
+            },
+            {
+              "node_type": "item",
+              "title": "zero-intl",
+              "description": "dead simple library for modern apps",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "Modern and minimalistic i18n library for React, inspired by FormatJS",
+                "homepage": null,
+                "id": 1021109396,
+                "language": "TypeScript",
+                "license": null,
+                "last_commit": "2026-04-14T17:11:45Z",
+                "open_issues": 0,
+                "owner": "zero-intl",
+                "repo": "zero-intl",
+                "stars": 2,
+                "topics": []
+              },
+              "first_seen": "2026-08-28T23:33:14.090Z"
             },
             {
               "node_type": "item",
@@ -669,7 +669,7 @@
                 "open_issues": 55,
                 "owner": "generaltranslation",
                 "repo": "gt",
-                "stars": 1069,
+                "stars": 1070,
                 "topics": [
                   "i18n",
                   "internationalization",
@@ -902,7 +902,7 @@
                 "id": 1322807983,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-10-24T06:43:46Z",
+                "last_commit": "2026-10-24T20:12:07Z",
                 "open_issues": 11,
                 "owner": "babelize",
                 "repo": "babelize-elements",
@@ -1019,7 +1019,7 @@
                     "id": 231953283,
                     "language": "TypeScript",
                     "license": "MIT",
-                    "last_commit": "2026-10-22T13:02:57Z",
+                    "last_commit": "2026-10-25T13:58:24Z",
                     "open_issues": 81,
                     "owner": "intlify",
                     "repo": "vue-i18n",
@@ -1308,7 +1308,7 @@
                 "open_issues": 68,
                 "owner": "nidhaloff",
                 "repo": "deep-translator",
-                "stars": 2046,
+                "stars": 2048,
                 "topics": [
                   "google-translator",
                   "hacktoberfest",
@@ -1437,7 +1437,7 @@
             "open_issues": 125,
             "owner": "google",
             "repo": "libphonenumber",
-            "stars": 18331,
+            "stars": 18333,
             "topics": []
           },
           "first_seen": "2026-08-28T23:33:14.090Z"
@@ -1496,7 +1496,7 @@
             "open_issues": 4,
             "owner": "uxbyissa",
             "repo": "ux-ui-audit",
-            "stars": 2,
+            "stars": 3,
             "topics": [
               "accessibility",
               "arabic",
@@ -1676,7 +1676,7 @@
             "open_issues": 129,
             "owner": "CopyTranslator",
             "repo": "CopyTranslator",
-            "stars": 18120,
+            "stars": 18123,
             "topics": [
               "copytranslator",
               "dictionary",
@@ -1701,7 +1701,7 @@
             "open_issues": 130,
             "owner": "LibreTranslate",
             "repo": "LibreTranslate",
-            "stars": 17169,
+            "stars": 17182,
             "topics": [
               "api",
               "machine",
@@ -1728,7 +1728,7 @@
             "open_issues": 27,
             "owner": "niedev",
             "repo": "RTranslator",
-            "stars": 10536,
+            "stars": 10543,
             "topics": [
               "android",
               "android-app",
@@ -1764,7 +1764,7 @@
             "open_issues": 167,
             "owner": "argosopentech",
             "repo": "argos-translate",
-            "stars": 6591,
+            "stars": 6592,
             "topics": [
               "language-models",
               "linux",
@@ -2098,7 +2098,7 @@
             "id": 1227754932,
             "language": "JavaScript",
             "license": null,
-            "last_commit": "2026-05-27T09:43:24Z",
+            "last_commit": "2026-10-25T12:55:08Z",
             "open_issues": 0,
             "owner": "theluckystrike",
             "repo": "bln-i18n-checker",
@@ -2280,7 +2280,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-24T17:27:22.403Z",
+    "last_updated": "2026-10-25T17:39:13.769Z",
     "original_repository_info": {
       "archived": false,
       "description": "🌍 A curated list of i18n resources for all kind of languages and frameworks",
@@ -2289,7 +2289,7 @@
       "language": null,
       "license": null,
       "last_commit": "2026-10-21T19:55:11Z",
-      "open_issues": 2,
+      "open_issues": 3,
       "owner": "oh-jon-paul",
       "repo": "awesome-i18n",
       "stars": 412,
