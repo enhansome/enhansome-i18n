@@ -54,7 +54,7 @@
 
 * [bazi-terms](https://github.com/favkit/bazi-kit) ⭐ 3 | 🐛 0 | 🌐 TypeScript | 📅 2026-09-07 - bilingual (zh/en) bazi & four-pillars terminology database with a translate() helper
 
-* [comvi](https://github.com/comvi-io/comvi-js) ⭐ 3 | 🐛 4 | 🌐 TypeScript | 📅 2026-11-25 - type-checked keys, plurals, html tags in translations
+* [comvi](https://github.com/comvi-io/comvi-js) ⭐ 3 | 🐛 4 | 🌐 TypeScript | 📅 2026-11-26 - type-checked keys, plurals, html tags in translations
 
 * [zero-intl](https://github.com/zero-intl/zero-intl) ⭐ 2 | 🐛 0 | 🌐 TypeScript | 📅 2026-04-14 - dead simple library for modern apps
 
@@ -90,10 +90,10 @@
 
 ### React framework
 
-* [next-intl](https://github.com/amannn/next-intl) ⭐ 4,393 | 🐛 49 | 🌐 TypeScript | 📅 2026-11-25 - minimal solution for internationalization in Next.js
+* [next-intl](https://github.com/amannn/next-intl) ⭐ 4,394 | 🐛 49 | 🌐 TypeScript | 📅 2026-11-25 - minimal solution for internationalization in Next.js
 * [next-translate](https://github.com/vinissimus/next-translate) ⭐ 2,730 | 🐛 129 | 🌐 JavaScript | 📅 2026-10-17 - easy i18n for NextJS, \~1kb of size
 * [react-native-localize](https://github.com/zoontek/react-native-localize) ⭐ 2,440 | 🐛 5 | 🌐 TypeScript | 📅 2026-11-23 - toolbox for your React Native app localization
-* [general translation](https://github.com/generaltranslation/gt) ⭐ 1,095 | 🐛 150 | 🌐 TypeScript | 📅 2026-11-25 - component translation for Next.js with SSR/SSG
+* [general translation](https://github.com/generaltranslation/gt) ⭐ 1,096 | 🐛 150 | 🌐 TypeScript | 📅 2026-11-26 - component translation for Next.js with SSR/SSG
 * [react-localization](https://github.com/stefalda/react-localization) ⭐ 370 | 🐛 15 | 🌐 TypeScript | 📅 2026-10-04 - translate using the same syntax as used in ReactNativeLocalization
 * [react-localize-redux](https://github.com/ryandrewjohnson/react-localize-redux) ⭐ 368 | 🐛 43 | 🌐 JavaScript | 📅 2022-12-30 - localization library for handling translations
 * [react-translate-component](https://github.com/martinandert/react-translate-component) ⭐ 317 | 🐛 9 | 🌐 JavaScript | 📅 2018-02-28 - component that utilizes the Counterpart/Interpolate components
@@ -113,7 +113,7 @@
 #### Other JS/TS frameworks
 
 * (Angular) [ngx-translate](https://github.com/ngx-translate/core) ⭐ 4,662 | 🐛 27 | 🌐 TypeScript | 📅 2026-11-23 - i18n for Angular
-* (VueJS) [vue-i18n](https://github.com/intlify/vue-i18n) ⭐ 2,720 | 🐛 81 | 🌐 TypeScript | 📅 2026-11-25 - i18n for VueJS
+* (VueJS) [vue-i18n](https://github.com/intlify/vue-i18n) ⭐ 2,721 | 🐛 80 | 🌐 TypeScript | 📅 2026-11-26 - i18n for VueJS
 * (Angular) [transloco](https://github.com/jsverse/transloco) ⭐ 2,288 | 🐛 162 | 🌐 TypeScript | 📅 2026-11-08 - i18n for Angular
 * (Svelte) [svelte-i18n](https://github.com/kaisermann/svelte-i18n) ⭐ 1,378 | 🐛 74 | 🌐 TypeScript | 📅 2024-10-21 - i18n for Svelte
 * (Nuxt) [nuxt-i18n-micro](https://github.com/s00d/nuxt-i18n-micro) ⭐ 255 | 🐛 1 | 🌐 TypeScript | 📅 2026-11-20 - strategy-based i18n; @i18n-micro packages for vue/react/preact/solid/astro/node
@@ -175,10 +175,10 @@
 
 ## Apps and extensions for translation management
 
-* [Copy Translator](https://github.com/CopyTranslator/CopyTranslator) ⭐ 18,156 | 🐛 129 | 🌐 TypeScript | 📅 2026-02-23 - cross-platform app that automatically translate texts when copied
-* [LibreTranslate](https://github.com/uav4geo/LibreTranslate) ⭐ 17,848 | 🐛 136 | 🌐 Python | 📅 2026-11-25 - self-hosted web application to translate texts
-* [RTranslator](https://github.com/niedev/RTranslator) ⭐ 10,724 | 🐛 29 | 🌐 Java | 📅 2026-11-24 - simultaneous translator app for Android based on Google's API
-* [Argos Translate](https://github.com/argosopentech/argos-translate) ⭐ 6,695 | 🐛 166 | 🌐 Python | 📅 2026-11-17 - open source offline translation app based on OpenNMT
+* [Copy Translator](https://github.com/CopyTranslator/CopyTranslator) ⭐ 18,158 | 🐛 129 | 🌐 TypeScript | 📅 2026-02-23 - cross-platform app that automatically translate texts when copied
+* [LibreTranslate](https://github.com/uav4geo/LibreTranslate) ⭐ 17,859 | 🐛 136 | 🌐 Python | 📅 2026-11-25 - self-hosted web application to translate texts
+* [RTranslator](https://github.com/niedev/RTranslator) ⭐ 10,723 | 🐛 29 | 🌐 Java | 📅 2026-11-24 - simultaneous translator app for Android based on Google's API
+* [Argos Translate](https://github.com/argosopentech/argos-translate) ⭐ 6,695 | 🐛 173 | 🌐 Python | 📅 2026-11-17 - open source offline translation app based on OpenNMT
 * [i18n-ally](https://github.com/antfu/i18n-ally) ⭐ 4,901 | 🐛 474 | 🌐 TypeScript | 📅 2024-12-13 - VS Code extension for i18n
 * [Crow Translate](https://github.com/crow-translate/crow-translate) ⚠️ Archived - lightweight desktop translator
 * [enum-plus](https://github.com/shijistar/enum-plus) ⭐ 207 | 🐛 3 | 🌐 TypeScript | 📅 2026-11-24 - localized labels, badges and dropdowns straight from your enums React + Vue
@@ -213,7 +213,7 @@
 
 * [fakenumber.org](https://fakenumber.org) - fake phone number generator
 * [Spoof Me](https://spoof-me.com/) - chrome/firefox extension to view sites as a user with another language, locale and timezone
-* [Oh My Android](https://github.com/ateymoori/oh-my-android) ⭐ 168 | 🐛 4 | 🌐 Swift | 📅 2026-11-25 - switch android emulator and phone locale, rtl and pseudo-locales in one click on macos
+* [Oh My Android](https://github.com/ateymoori/oh-my-android) ⭐ 169 | 🐛 4 | 🌐 Swift | 📅 2026-11-26 - switch android emulator and phone locale, rtl and pseudo-locales in one click on macos
 * [AppStore Localizer](https://simplelocalize.io/tools/app-store-localizer/) - free tool to translate AppStore listings
 * [Google Play Store Localizer](https://simplelocalize.io/tools/google-play-localizer/) - free tool to translate Google Play listings
 * [Store Localizer](https://asolocalization.com) - paid tool to localize mobile store listings
@@ -281,4 +281,4 @@
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-25._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-26._
